@@ -1,0 +1,45 @@
+/* Product page custom styles */
+
+// Content //
+.product {
+    .quantity {
+        .input-text {
+            &.text {
+                border: none;
+            }
+        }
+    }
+}
+
+// Description //
+.woocommerce-tabs {
+    &.wc-tabs-wrapper {
+        .entry-content {
+            color: $c-eclipse;
+
+            a {
+                color: $c-pacific-blue;
+            }
+
+            img {
+                display: inline-block;
+                vertical-align: middle;
+            }
+        }
+    }
+}
+
+// Listing //
+.woocommerce {
+    ul.products {
+        li.product {
+            .product-button-wrap {
+                a {
+                    padding-right: 30px;
+                    text-align: center;
+                    width: 100%;
+                }
+            }
+        }
+    }
+}

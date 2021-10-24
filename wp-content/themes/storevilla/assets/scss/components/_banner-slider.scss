@@ -1,0 +1,45 @@
+/* Banner slider custom styles */
+
+.site-content {
+    .slider-wrapper {
+        ul.store-gallery {
+            li {
+                .banner-slider-info {
+                    right: 50%;
+                    top: 80%;
+                    transform: translate(50%, -50%);
+
+                    .caption-title {
+                        display: none;
+                    }
+
+                    .caption-content {
+                        color: $c-red-pink;
+                        display: none;
+                        font-weight: 700;
+                        text-transform: none;
+                    }
+                }
+            }
+        }
+    }
+
+    /* Mobile */
+    @include bp(max-width, $bp-mobile) {
+        .slider-wrapper {
+            ul.store-gallery {
+                li {
+                    .banner-slider-info {
+                        max-width: 100%;
+                        padding: 0 10px;
+                        top: 70%;
+                    }
+                }
+            }
+
+            .lSPager {
+                bottom: 0;
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+/* Brand logo custom styles */
+
+.brand-logo-wrap {
+    .lSSlideOuter {
+        margin: 0 -5px;
+
+        /* Tablet */
+        @include bp(min-width, $bp-mobile + 1) {
+            margin: 0 -10px;
+        }
+    }
+
+    .brands-logo {
+        li {
+            padding: 0 5px;
+    
+            /* Tablet */
+            @include bp(min-width, $bp-mobile + 1) {
+                padding: 0 10px;
+            }
+        }
+    }
+}
+

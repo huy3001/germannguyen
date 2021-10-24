@@ -1,0 +1,22 @@
+/* Plugin custom styles */
+
+// Contact button //
+.phone-vr-img-circle {
+    align-items: center;
+}
+
+// Social share //
+.page,
+.storevilla-blog {
+    .entry-content {
+        .apss-social-share {
+            margin: 20px 0;
+        }
+
+        .apss-single-icon {
+            a {
+                color: $c-white;
+            }
+        }
+    }
+}

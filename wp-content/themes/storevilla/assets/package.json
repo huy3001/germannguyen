@@ -1,0 +1,23 @@
+{
+  "name": "chichchich",
+  "version": "1.0.0",
+  "description": "This is Chich Chich theme for wordpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Huy Nguyen",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4"
+  },
+  "dependencies": {
+    "npm": "^6.1.0"
+  }
+}

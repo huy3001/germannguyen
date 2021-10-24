@@ -1,0 +1,25 @@
+/* Navigation custom styles */
+
+.main-navigation {
+
+    /* Tablet + Desktop */
+    @include bp(min-width, $bp-mobile + 1) {
+        ul {
+            li {
+                a {
+                    padding: 15px 20px;
+                }
+            }
+        }
+
+        li {
+            &.menu-item-has-children {
+                > a {
+                    &:before {
+                        right: 6px;
+                    }
+                }
+            }
+        }
+    }
+}

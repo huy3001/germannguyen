@@ -1,0 +1,611 @@
+/* line 5, scss/base/_reset.scss */
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 88, scss/base/_reset.scss */
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+/* line 102, scss/base/_reset.scss */
+
+ol,
+ul {
+  list-style: none;
+}
+
+/* line 107, scss/base/_reset.scss */
+
+blockquote,
+q {
+  quotes: none;
+}
+
+/* line 112, scss/base/_reset.scss */
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+
+/* line 120, scss/base/_reset.scss */
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 125, scss/base/_reset.scss */
+
+:focus {
+  outline: none;
+}
+
+/* line 132, scss/base/_reset.scss */
+
+button:focus,
+input:focus,
+select:focus {
+  outline: none;
+}
+
+/* line 137, scss/base/_reset.scss */
+
+a {
+  transition: color .3s ease-out;
+}
+
+/* line 140, scss/base/_reset.scss */
+
+a:hover {
+  color: #0091d5;
+}
+
+/* line 145, scss/base/_reset.scss */
+
+img {
+  display: block;
+  margin: auto;
+}
+
+/* line 4, scss/base/_typography.scss */
+
+body {
+  color: #000;
+}
+
+/* line 11, scss/base/_typography.scss */
+
+.page .entry-content,
+.storevilla-blog .entry-content {
+  color: #000;
+}
+
+/* line 14, scss/base/_typography.scss */
+
+.page .entry-content a,
+.storevilla-blog .entry-content a {
+  color: #0091d5;
+}
+
+/* line 18, scss/base/_typography.scss */
+
+.page .entry-content img,
+.storevilla-blog .entry-content img {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* line 7, scss/components/_banner-slider.scss */
+
+.site-content .slider-wrapper ul.store-gallery li .banner-slider-info {
+  right: 50%;
+  top: 80%;
+  -webkit-transform: translate(50%, -50%);
+  transform: translate(50%, -50%);
+}
+
+/* line 12, scss/components/_banner-slider.scss */
+
+.site-content .slider-wrapper ul.store-gallery li .banner-slider-info .caption-title {
+  display: none;
+}
+
+/* line 16, scss/components/_banner-slider.scss */
+
+.site-content .slider-wrapper ul.store-gallery li .banner-slider-info .caption-content {
+  color: #f85570;
+  display: none;
+  font-weight: 700;
+  text-transform: none;
+}
+
+@media only screen and (max-width: 768px) {
+  /* line 32, scss/components/_banner-slider.scss */
+
+  .site-content .slider-wrapper ul.store-gallery li .banner-slider-info {
+    max-width: 100%;
+    padding: 0 10px;
+    top: 70%;
+  }
+
+  /* line 40, scss/components/_banner-slider.scss */
+
+  .site-content .slider-wrapper .lSPager {
+    bottom: 0;
+  }
+}
+
+/* line 5, scss/components/_blog-widget.scss */
+
+.widget_storevilla_blog_widget_area .blog-preview-item .entry-thumb {
+  margin-bottom: 10px;
+}
+
+/* line 4, scss/components/_brand-logo.scss */
+
+.brand-logo-wrap .lSSlideOuter {
+  margin: 0 -5px;
+}
+
+@media only screen and (min-width: 769px) {
+  /* line 4, scss/components/_brand-logo.scss */
+
+  .brand-logo-wrap .lSSlideOuter {
+    margin: 0 -10px;
+  }
+}
+
+/* line 14, scss/components/_brand-logo.scss */
+
+.brand-logo-wrap .brands-logo li {
+  padding: 0 5px;
+}
+
+@media only screen and (min-width: 769px) {
+  /* line 14, scss/components/_brand-logo.scss */
+
+  .brand-logo-wrap .brands-logo li {
+    padding: 0 10px;
+  }
+}
+
+@media only screen and (min-width: 769px) {
+  /* line 9, scss/layout/_navigation.scss */
+
+  .main-navigation ul li a {
+    padding: 15px 20px;
+  }
+
+  /* line 18, scss/layout/_navigation.scss */
+
+  .main-navigation li.menu-item-has-children>a:before {
+    right: 6px;
+  }
+}
+
+/* line 6, scss/layout/_header.scss */
+
+.header-wrap .site-branding .custom-logo-link+.sv-logo-wrap {
+  display: none;
+}
+
+/* line 11, scss/layout/_header.scss */
+
+.header-wrap .site-branding img {
+  max-width: 100px;
+}
+
+@media only screen and (min-width: 769px) {
+  /* line 18, scss/layout/_header.scss */
+
+  .header-wrap .store-container {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  /* line 24, scss/layout/_header.scss */
+
+  .header-wrap .site-branding,
+  .header-wrap .search-cart-wrap {
+    float: none;
+  }
+}
+
+/* line 34, scss/layout/_header.scss */
+
+.site-header-cart .mini_cart_item.woocommerce-mini-cart-item {
+  display: block;
+  text-align: left;
+  padding: 10px 0 !important;
+}
+
+/* line 40, scss/layout/_header.scss */
+
+.site-header-cart .mini_cart_item .mini-cart-product {
+  margin-bottom: 0;
+  max-width: 90%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* line 48, scss/layout/_header.scss */
+
+.site-header-cart .mini_cart_item .quantity {
+  left: 80px;
+  position: absolute;
+  top: 30px;
+}
+
+/* line 58, scss/layout/_header.scss */
+
+.site-header-cart .woocommerce a.button.wc-forward {
+  padding: 13px 15px;
+  text-align: center;
+}
+
+/* line 62, scss/layout/_header.scss */
+
+.site-header-cart .woocommerce a.button.wc-forward:before {
+  margin-right: 10px;
+  position: static;
+}
+
+/* line 68, scss/layout/_header.scss */
+
+.site-header-cart .woocommerce a.button.checkout {
+  background: #dd1f26;
+}
+
+/* line 5, scss/layout/_footer.scss */
+
+.site-footer .widget_storevilla_aboutus_info_area .about-logo {
+  margin-bottom: 20px;
+  max-width: 100px;
+}
+
+/* line 10, scss/layout/_footer.scss */
+
+.site-footer .widget_storevilla_aboutus_info_area .about-desc {
+  margin-bottom: 20px;
+}
+
+/* line 16, scss/layout/_footer.scss */
+
+.site-footer .footer-widgets .menu-item {
+  text-transform: uppercase;
+}
+
+/* line 22, scss/layout/_footer.scss */
+
+.site-footer .widget_media_gallery .gallery {
+  margin: 0;
+}
+
+/* line 26, scss/layout/_footer.scss */
+
+.site-footer .widget_media_gallery .gallery-item {
+  padding: 1px;
+}
+
+@media only screen and (min-width: 1025px) {
+  /* line 34, scss/layout/_footer.scss */
+
+  .site-footer .footer-widgets .footer-widget-2,
+  .site-footer .footer-widgets .footer-widget-3,
+  .site-footer .footer-widgets .footer-widget-4,
+  .site-footer .footer-widgets .footer-widget-5 {
+    padding-top: 0;
+  }
+}
+
+/* line 6, scss/layout/_sidebar.scss */
+
+.product-categories .cat-item a:hover {
+  color: #0091d5;
+}
+
+/* line 7, scss/pages/_product.scss */
+
+.product .quantity .input-text.text {
+  border: none;
+}
+
+/* line 17, scss/pages/_product.scss */
+
+.woocommerce-tabs.wc-tabs-wrapper .entry-content {
+  color: #404040;
+}
+
+/* line 20, scss/pages/_product.scss */
+
+.woocommerce-tabs.wc-tabs-wrapper .entry-content a {
+  color: #0091d5;
+}
+
+/* line 24, scss/pages/_product.scss */
+
+.woocommerce-tabs.wc-tabs-wrapper .entry-content img {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* line 37, scss/pages/_product.scss */
+
+.woocommerce ul.products li.product .product-button-wrap a {
+  padding-right: 30px;
+  text-align: center;
+  width: 100%;
+}
+
+/* line 6, scss/pages/_cart.scss */
+
+.cart_item .quantity .input-text {
+  border: 1px solid #0091d5;
+}
+
+/* line 17, scss/pages/_cart.scss */
+
+.woocommerce-page table.cart td.actions .coupon .input-text {
+  height: 36px;
+}
+
+/* line 28, scss/pages/_cart.scss */
+
+.cart-collaterals .cart_totals h2 {
+  margin: 0 0 1em;
+  text-transform: uppercase;
+}
+
+/* line 6, scss/pages/_checkout.scss */
+
+.woocommerce-additional-fields .form-row textarea {
+  min-height: 185px;
+}
+
+/* line 13, scss/pages/_checkout.scss */
+
+.woocommerce-checkout h3 {
+  font-weight: bold;
+  margin: 1em 0;
+  text-transform: uppercase;
+}
+
+/* line 20, scss/pages/_checkout.scss */
+
+.woocommerce-checkout .select2-container .select2-selection--single {
+  border-color: #ccc;
+  border-radius: 0;
+  font-size: 13px;
+  height: 35px;
+}
+
+/* line 26, scss/pages/_checkout.scss */
+
+.woocommerce-checkout .select2-container .select2-selection--single .select2-selection__rendered {
+  line-height: 35px;
+}
+
+/* line 30, scss/pages/_checkout.scss */
+
+.woocommerce-checkout .select2-container .select2-selection--single .select2-selection__arrow {
+  height: 33px;
+}
+
+/* line 39, scss/pages/_checkout.scss */
+
+.select2-container .select2-search--dropdown .select2-search__field {
+  font-size: 13px;
+}
+
+/* line 44, scss/pages/_checkout.scss */
+
+.select2-container .select2-results__option {
+  font-size: 13px;
+}
+
+/* line 52, scss/pages/_checkout.scss */
+
+.woocommerce-page tr.cart_item td.product-name {
+  padding: 9px 12px !important;
+}
+
+/* line 60, scss/pages/_checkout.scss */
+
+.site-content .woocommerce-error {
+  margin: 0 0 2em;
+  padding: 1em 2em 1em 3.5em;
+}
+
+/* line 65, scss/pages/_checkout.scss */
+
+.site-content .woocommerce-order-overview {
+  padding: 0;
+}
+
+/* line 70, scss/pages/_checkout.scss */
+
+.woocommerce-thankyou-order-received {
+  margin-bottom: 1em;
+}
+
+/* line 74, scss/pages/_checkout.scss */
+
+.woocommerce-order-details__title,
+.woocommerce-column__title {
+  margin: 1em 0;
+}
+
+/* line 81, scss/pages/_checkout.scss */
+
+.woocommerce .woocommerce-customer-details address {
+  border-radius: 0;
+}
+
+/* line 5, scss/pages/_about.scss */
+
+.site-content .wp-block-social-links {
+  padding: 0;
+}
+
+/* line 8, scss/pages/_about.scss */
+
+.wp-block-social-links .wp-social-link a,
+.wp-block-social-links .wp-social-link a:active,
+.wp-block-social-links .wp-social-link a:hover,
+.wp-block-social-links .wp-social-link a:visited {
+  color: #fff;
+  fill: none;
+}
+
+/* line 18, scss/pages/_about.scss */
+
+.mapouter,
+.gmap_canvas {
+  max-width: 100%;
+}
+
+/* line 48, scss/abstracts/_mixins.scss */
+
+.storevilla-blog:after {
+  content: '';
+  clear: both;
+  display: table;
+}
+
+/* line 9, scss/pages/_blog-list.scss */
+
+.storevilla-blog .sv-post-content,
+.storevilla-blog .entry-content {
+  color: #333333;
+  margin-top: 20px;
+}
+
+/* line 16, scss/pages/_blog-list.scss */
+
+.storevilla-blog .sv-post-content .category-name span a,
+.storevilla-blog .sv-post-content .post-meta .date {
+  color: #333333;
+}
+
+/* line 5, scss/pages/_single-post.scss */
+
+.comment-form .form-submit {
+  margin-top: 20px;
+}
+
+/* line 4, scss/vendors/_plugin.scss */
+
+.phone-vr-img-circle {
+  align-items: center;
+}
+
+/* line 12, scss/vendors/_plugin.scss */
+
+.page .entry-content .apss-social-share,
+.storevilla-blog .entry-content .apss-social-share {
+  margin: 20px 0;
+}
+
+/* line 17, scss/vendors/_plugin.scss */
+
+.page .entry-content .apss-single-icon a,
+.storevilla-blog .entry-content .apss-single-icon a {
+  color: #fff;
+}

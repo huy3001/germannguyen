@@ -1,0 +1,26 @@
+/* Custom styles for theme */
+
+@import "abstracts/variables";
+@import "abstracts/mixins";
+
+@import "base/reset";
+@import "base/typography";
+
+@import "components/banner-slider";
+@import "components/blog-widget";
+@import "components/brand-logo";
+
+@import "layout/navigation";
+@import "layout/header";
+@import "layout/footer";
+@import "layout/sidebar";
+
+@import "pages/home";
+@import "pages/product";
+@import "pages/cart";
+@import "pages/checkout";
+@import "pages/about";
+@import "pages/blog-list";
+@import "pages/single-post";
+
+@import "vendors/plugin";
