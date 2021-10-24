@@ -1,0 +1,2324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: StoreVilla\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-02 15:37+0700\n"
+"PO-Revision-Date: 2020-12-02 15:39+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Revision-Date: Wed Aug 17 2016 17:04:12 GMT+0545 (Nepal Standard Time)\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Rất tiếc! Không thể tìm thấy trang này."
+
+#: ../404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Có vẻ như không có gì được tìm thấy tại địa điểm này. Có thể thử một trong "
+"các liên kết dưới đây hoặc tìm kiếm?"
+
+#: ../404.php:25
+msgid "Back To Home"
+msgstr "Về Trang Chủ"
+
+#: ../assets/node_modules/browser-sync-client/dist/index.min.js:8
+msgid "N"
+msgstr ""
+
+#: ../assets/node_modules/browser-sync-client/dist/index.min.js:8
+msgid "E"
+msgstr ""
+
+#: ../assets/node_modules/browser-sync-client/dist/index.min.js:8
+msgid "C"
+msgstr ""
+
+#: ../assets/node_modules/browser-sync-ui/public/js/app.js:6
+msgid "$injector"
+msgstr ""
+
+#: ../assets/node_modules/browser-sync-ui/public/js/app.js:6
+msgid "$provide"
+msgstr ""
+
+#: ../assets/node_modules/browser-sync-ui/public/js/app.js:6
+msgid "templates"
+msgstr "các mẫu giao diện"
+
+#: ../assets/node_modules/css-tree/dist/csstree.min.js:1
+#: ../assets/node_modules/csso/dist/csso.min.js:1
+#: ../assets/node_modules/csso/node_modules/css-tree/dist/csstree.min.js:1
+msgid "*"
+msgstr ""
+
+#: ../assets/node_modules/d/test/index.js:9
+#: ../assets/node_modules/d/test/index.js:156
+msgid "c"
+msgstr ""
+
+#: ../assets/node_modules/d/test/index.js:11
+msgid "ce"
+msgstr ""
+
+#: ../assets/node_modules/d/test/index.js:13
+msgid "cew"
+msgstr ""
+
+#: ../assets/node_modules/d/test/index.js:14
+msgid "cw"
+msgstr ""
+
+#: ../assets/node_modules/d/test/index.js:15
+#: ../assets/node_modules/lodash/lodash.min.js:53
+msgid "e"
+msgstr ""
+
+#: ../assets/node_modules/d/test/index.js:17
+msgid "ew"
+msgstr ""
+
+#: ../assets/node_modules/d/test/index.js:20
+msgid "w"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/array/from/shim.js:9
+#: ../assets/node_modules/es5-ext/test/array/to-array.js:6
+msgid "12r3v"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/array/is-plain-array.js:10
+msgid "234"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/array/of/shim.js:18
+msgid "abc"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/array/valid-array.js:9
+#: ../assets/node_modules/es5-ext/test/object/entries/shim.js:5
+#: ../assets/node_modules/es5-ext/test/object/is-copy-deep.js:11
+#: ../assets/node_modules/es5-ext/test/object/is-copy-deep.js:12
+#: ../assets/node_modules/es5-ext/test/object/is-copy.js:9
+#: ../assets/node_modules/es5-ext/test/object/is-copy.js:10
+#: ../assets/node_modules/es5-ext/test/object/keys/shim.js:5
+#: ../assets/node_modules/es5-ext/test/object/primitive-set.js:13
+#: ../assets/node_modules/es5-ext/test/object/serialize.js:8
+#: ../assets/node_modules/es6-symbol/test/is-symbol.js:9
+#: ../assets/node_modules/es6-symbol/test/validate-symbol.js:10
+#: ../assets/node_modules/es6-weak-map/test/is-weak-map.js:9
+#: ../assets/node_modules/es6-weak-map/test/valid-weak-map.js:18
+msgid "raz"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/boolean/is-boolean.js:4
+#: ../assets/node_modules/es5-ext/test/date/is-date.js:4
+#: ../assets/node_modules/es5-ext/test/date/is-time-value.js:4
+#: ../assets/node_modules/es5-ext/test/object/is-object.js:4
+#: ../assets/node_modules/es5-ext/test/reg-exp/is-reg-exp.js:4
+msgid "arar"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/function/invoke.js:6
+msgid "b"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/function/pluck.js:5
+#: ../assets/node_modules/es5-ext/test/math/clz32/shim.js:9
+#: ../assets/node_modules/es5-ext/test/object/set-prototype-of/index.js:13
+#: ../assets/node_modules/es5-ext/test/object/set-prototype-of/shim.js:13
+#: ../assets/node_modules/es6-iterator/test/for-of.js:21
+#: ../assets/node_modules/es6-iterator/test/get.js:26
+#: ../assets/node_modules/es6-iterator/test/is-iterable.js:18
+msgid "foo"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/iterable/for-each.js:46
+#: ../assets/node_modules/es6-iterator/test/for-of.js:27
+msgid "r💩z"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/math/_decimal-adjust.js:5
+msgid "round"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/number/is-finite/shim.js:5
+#: ../assets/node_modules/es5-ext/test/number/is-integer/shim.js:6
+#: ../assets/node_modules/es5-ext/test/number/is-natural.js:7
+#: ../assets/node_modules/es5-ext/test/number/is-safe-integer/shim.js:8
+#: ../assets/node_modules/es5-ext/test/object/ensure-integer.js:9
+#: ../assets/node_modules/es5-ext/test/object/ensure-natural-number-value.js:9
+#: ../assets/node_modules/es5-ext/test/object/ensure-natural-number.js:9
+#: ../assets/node_modules/es5-ext/test/object/is-integer.js:9
+#: ../assets/node_modules/es5-ext/test/object/is-natural-number-value.js:9
+#: ../assets/node_modules/es5-ext/test/object/is-natural-number.js:9
+msgid "23"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/number/is-number.js:11
+#: ../assets/node_modules/es5-ext/test/object/ensure-finite-number.js:13
+#: ../assets/node_modules/es5-ext/test/object/is-finite-number.js:13
+#: ../assets/node_modules/es5-ext/test/object/is-number-value.js:13
+#: ../assets/node_modules/es5-ext/test/string/is-string.js:10
+msgid "asdfaf"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/number/to-integer.js:6
+msgid "-20"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/object/_iterate.js:6
+msgid "forEach"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/object/compare.js:8
+msgid "aaa"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/object/compare.js:9
+#: ../assets/node_modules/es5-ext/test/object/compare.js:10
+msgid "aa"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/object/ensure-promise.js:7
+#: ../assets/node_modules/es5-ext/test/object/is-promise.js:7
+#: ../assets/node_modules/es5-ext/test/object/is-thenable.js:7
+msgid "promise"
+msgstr "lời hứa"
+
+#: ../assets/node_modules/es5-ext/test/object/eq.js:7
+#: ../assets/node_modules/es5-ext/test/object/eq.js:8
+#: ../assets/node_modules/es5-ext/test/object/is.js:7
+#: ../assets/node_modules/es5-ext/test/object/is.js:8
+#: ../inc/welcome/sections/free_vs_pro.php:70
+msgid "1"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/object/is-copy-deep.js:13
+#: ../assets/node_modules/es5-ext/test/object/is-copy.js:11
+msgid "32"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/object/is-plain-object.js:11
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/usage.js:230
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/usage.js:231
+#: ../assets/node_modules/npm/node_modules/yargs/lib/usage.js:279
+#: ../assets/node_modules/npm/node_modules/yargs/lib/usage.js:280
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/usage.js:290
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/usage.js:291
+#: ../assets/node_modules/yargs/lib/usage.js:227
+#: ../assets/node_modules/yargs/lib/usage.js:228
+msgid "string"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/object/is-value.js:10
+#: ../assets/node_modules/es5-ext/test/object/unserialize.js:6
+msgid "null"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/object/serialize.js:9
+msgid ""
+"raz\"ddwa\n"
+"trzy"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/object/unserialize.js:5
+msgid "undefined"
+msgstr "chưa xác định"
+
+#: ../assets/node_modules/es5-ext/test/object/unserialize.js:7
+msgid "\"raz\""
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/object/unserialize.js:8
+msgid "\"raz\\\"ddwa\\ntrzy\""
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/object/unserialize.js:9
+msgid "false"
+msgstr "sai"
+
+#: ../assets/node_modules/es5-ext/test/object/unserialize.js:12
+msgid "/raz-dwa/g"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/object/unserialize.js:13
+msgid "new Date(1234567)"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/object/unserialize.js:14
+msgid "[]"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/object/unserialize.js:16
+msgid ""
+"[undefined,false,null,\"raz\\\"ddwa\\ntrzy\",/raz/g,new Date(1234567),[\"foo"
+"\"]]"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/object/unserialize.js:20
+msgid "{}"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/object/unserialize.js:23
+msgid ""
+"{\"raz\":undefined,\"dwa\":false,\"trzy\":null,\"cztery\":\"raz\\\"ddwa"
+"\\ntrzy\",\"szesc\":/raz/g,\"siedem\":new Date(1234567),\"osiem\":[\"foo"
+"\",32],\"dziewiec\":{\"foo\":\"bar\",\"dwa\":343}}"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/safe-to-string.js:7
+#: ../assets/node_modules/es5-ext/test/to-short-string-representation.js:9
+msgid "str"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/string/from-code-point/shim.js:24
+msgid "_"
+msgstr ""
+
+#: ../assets/node_modules/es5-ext/test/to-short-string-representation.js:15
+msgid ""
+"mar\n"
+"too\n"
+"far"
+msgstr ""
+
+#: ../assets/node_modules/es6-symbol/test/index.js:7
+#: ../assets/node_modules/es6-symbol/test/polyfill.js:8
+msgid "test"
+msgstr "kiểm tra"
+
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/usage.js:161
+#: ../assets/node_modules/npm/node_modules/yargs/lib/usage.js:198
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/usage.js:203
+#: ../assets/node_modules/yargs/lib/usage.js:158
+msgid "Commands:"
+msgstr "Lệnh:"
+
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/usage.js:169
+#: ../assets/node_modules/npm/node_modules/yargs/lib/usage.js:216
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/usage.js:225
+#: ../assets/node_modules/yargs/lib/usage.js:166
+msgid "aliases:"
+msgstr "bí danh:"
+
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/usage.js:228
+#: ../assets/node_modules/npm/node_modules/yargs/lib/usage.js:277
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/usage.js:288
+#: ../assets/node_modules/yargs/lib/usage.js:225
+msgid "boolean"
+msgstr "nhị phân"
+
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/usage.js:229
+#: ../assets/node_modules/npm/node_modules/yargs/lib/usage.js:278
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/usage.js:289
+#: ../assets/node_modules/yargs/lib/usage.js:226
+msgid "count"
+msgstr "đếm"
+
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/usage.js:232
+#: ../assets/node_modules/npm/node_modules/yargs/lib/usage.js:281
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/usage.js:292
+#: ../assets/node_modules/yargs/lib/usage.js:229
+msgid "array"
+msgstr "mảng"
+
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/usage.js:233
+#: ../assets/node_modules/npm/node_modules/yargs/lib/usage.js:282
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/usage.js:293
+#: ../assets/node_modules/yargs/lib/usage.js:230
+msgid "number"
+msgstr "số"
+
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/usage.js:237
+#: ../assets/node_modules/npm/node_modules/yargs/lib/usage.js:286
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/usage.js:297
+#: ../assets/node_modules/yargs/lib/usage.js:234
+msgid "required"
+msgstr "bắt buộc"
+
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/usage.js:238
+#: ../assets/node_modules/npm/node_modules/yargs/lib/usage.js:287
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/usage.js:298
+#: ../assets/node_modules/yargs/lib/usage.js:235
+msgid "choices:"
+msgstr "lựa chọn:"
+
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/usage.js:257
+#: ../assets/node_modules/npm/node_modules/yargs/lib/usage.js:306
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/usage.js:317
+#: ../assets/node_modules/yargs/lib/usage.js:254
+msgid "Examples:"
+msgstr "Ví dụ:"
+
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/usage.js:358
+#: ../assets/node_modules/npm/node_modules/yargs/lib/usage.js:420
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/usage.js:436
+#: ../assets/node_modules/yargs/lib/usage.js:354
+msgid "generated-value"
+msgstr "giá trị được tạo ra"
+
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/usage.js:380
+#: ../assets/node_modules/npm/node_modules/yargs/lib/usage.js:214
+#: ../assets/node_modules/npm/node_modules/yargs/lib/usage.js:442
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/usage.js:223
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/usage.js:458
+#: ../assets/node_modules/yargs/lib/usage.js:376
+msgid "default:"
+msgstr "mặc định:"
+
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/validation.js:26
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/validation.js:49
+#: ../assets/node_modules/npm/node_modules/yargs/lib/validation.js:29
+#: ../assets/node_modules/npm/node_modules/yargs/lib/validation.js:52
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/validation.js:29
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/validation.js:52
+#: ../assets/node_modules/yargs/lib/validation.js:22
+#: ../assets/node_modules/yargs/lib/validation.js:37
+#, javascript-format
+msgid "Not enough non-option arguments: got %s, need at least %s"
+msgstr "Không đủ đối số không phải tùy chọn: có %s, cần ít nhất %s"
+
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/validation.js:37
+#: ../assets/node_modules/npm/node_modules/yargs/lib/validation.js:40
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/validation.js:40
+#: ../assets/node_modules/yargs/lib/validation.js:26
+#, javascript-format
+msgid "Too many non-option arguments: got %s, maximum of %s"
+msgstr "Quá nhiều đối số không phải là tùy chọn: có %s, tối đa là %s"
+
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/validation.js:183
+#: ../assets/node_modules/npm/node_modules/yargs/lib/validation.js:147
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/validation.js:147
+#: ../assets/node_modules/yargs/lib/validation.js:171
+msgid "Invalid values:"
+msgstr "Giá trị không hợp lệ:"
+
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/validation.js:186
+#: ../assets/node_modules/npm/node_modules/yargs/lib/validation.js:150
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/validation.js:150
+#: ../assets/node_modules/yargs/lib/validation.js:174
+#, javascript-format
+msgid "Argument: %s, Given: %s, Choices: %s"
+msgstr "Đối số: %s, Cho: %s, Lựa chọn: %s"
+
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/validation.js:212
+#: ../assets/node_modules/npm/node_modules/yargs/lib/validation.js:180
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/validation.js:180
+#: ../assets/node_modules/yargs/lib/validation.js:200
+#, javascript-format
+msgid "Argument check failed: %s"
+msgstr "Kiểm tra đối số không thành công: %s"
+
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/validation.js:276
+#: ../assets/node_modules/npm/node_modules/yargs/lib/validation.js:256
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/validation.js:256
+#: ../assets/node_modules/yargs/lib/validation.js:270
+msgid "Implications failed:"
+msgstr "Hàm ý không thành công:"
+
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/validation.js:305
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/validation.js:295
+#, javascript-format
+msgid "Arguments %s and %s are mutually exclusive"
+msgstr "Đối số %s và %s loại trừ lẫn nhau"
+
+#: ../assets/node_modules/localtunnel/node_modules/yargs/lib/validation.js:324
+#: ../assets/node_modules/npm/node_modules/yargs/lib/validation.js:316
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/validation.js:316
+#: ../assets/node_modules/yargs/lib/validation.js:294
+#, javascript-format
+msgid "Did you mean %s?"
+msgstr "Ý bạn là %s?"
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "tabWidth"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "useTabs"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "reuseWhitespace"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "lineTerminator"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "wrapColumn"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "sourceFileName"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "sourceMapName"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "sourceRoot"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "inputSourceMap"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "esprima"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "parser"
+msgstr "phân tích cú pháp"
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "range"
+msgstr "phạm vi"
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "tolerant"
+msgstr "chấp thuận"
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "quote"
+msgstr "trích dẫn"
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "trailingComma"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "arrayBracketSpacing"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "objectCurlySpacing"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "arrowParensAlways"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "flowObjectCommas"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "next"
+msgstr "kế tiếp"
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "throw"
+msgstr "ném"
+
+#: ../assets/node_modules/npm/node_modules/ajv/dist/regenerator.min.js:2
+msgid "end"
+msgstr "kết thúc"
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:30
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:29
+msgid "./schedule"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:30
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:29
+msgid "./queue"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:30
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:31
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:29
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:31
+msgid "./util"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:30
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:29
+msgid "./promise"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:30
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:31
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:29
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:31
+msgid "./es5"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:30
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:29
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:31
+msgid "./errors"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:30
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:29
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./catch_filter"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:30
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./async"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:30
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./thenables"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:30
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./promise_array"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:30
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./context"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:30
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./debuggability"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:30
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./finally"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:30
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./nodeback"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:31
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./method"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:31
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./bind"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:31
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./cancel"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:31
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./direct_resolve"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:31
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./synchronous_inspection"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.core.min.js:31
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./join"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./call_get.js"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./generators.js"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./map.js"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./nodeify.js"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./promisify.js"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./props.js"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./race.js"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./reduce.js"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./settle.js"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./some.js"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./timers.js"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./using.js"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./any.js"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./each.js"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/bluebird/js/browser/bluebird.min.js:30
+msgid "./filter.js"
+msgstr ""
+
+#: ../assets/node_modules/npm/node_modules/yargs-parser/index.js:316
+#: ../assets/node_modules/sass-graph/node_modules/yargs-parser/index.js:367
+#: ../assets/node_modules/yargs-parser/index.js:301
+#, javascript-format
+msgid "Not enough arguments following: %s"
+msgstr "Không đủ đối số sau: %s"
+
+#: ../assets/node_modules/npm/node_modules/yargs-parser/index.js:479
+#: ../assets/node_modules/sass-graph/node_modules/yargs-parser/index.js:541
+#: ../assets/node_modules/yargs-parser/index.js:449
+#, javascript-format
+msgid "Invalid JSON config file: %s"
+msgstr "Tệp cấu hình JSON không hợp lệ: %s"
+
+#: ../assets/node_modules/npm/node_modules/yargs/lib/usage.js:88
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/usage.js:92
+msgid "Positionals:"
+msgstr "Vị trí:"
+
+#: ../assets/node_modules/npm/node_modules/yargs/lib/usage.js:187
+#: ../assets/node_modules/npm/node_modules/yargs/lib/usage.js:189
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/usage.js:192
+#: ../assets/node_modules/sass-graph/node_modules/yargs/lib/usage.js:194
+msgid "command"
+msgstr "lệnh"
+
+#: ../comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Một suy nghĩ về &ldquo;%1$s&rdquo;"
+
+#: ../comments.php:41
+#, fuzzy, php-format
+#| msgctxt "comments title"
+#| msgid "One thought on &ldquo;%2$s&rdquo;"
+#| msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s suy nghĩ về &ldquo;%2$s&rdquo;"
+
+#: ../comments.php:51 ../comments.php:72
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: ../comments.php:54 ../comments.php:75
+msgid "Older Comments"
+msgstr "Bình luận cũ hơn"
+
+#: ../comments.php:55 ../comments.php:76
+msgid "Newer Comments"
+msgstr "Bình luận mới hơn"
+
+#: ../comments.php:89
+msgid "Comments are closed."
+msgstr "Bình luận đã đóng."
+
+#: ../functions.php:56
+msgid "Top Menu"
+msgstr "Menu phía trên"
+
+#: ../functions.php:57
+msgid "Primary Menu"
+msgstr "Menu chính"
+
+#: ../functions.php:130
+msgid "Right Sidebar Widget Area"
+msgstr "Khu vực Tiện ích Bên phải"
+
+#: ../functions.php:132 ../functions.php:142 ../functions.php:161
+msgid "Add widgets here."
+msgstr "Thêm các tiện ích tại đây."
+
+#: ../functions.php:140
+msgid "Left Sidebar Widget Area"
+msgstr "Khu vực Tiện ích Bên trái"
+
+#: ../functions.php:151
+msgid "Top Right Header Widget Area"
+msgstr "Khu vực Tiện ích Trên cùng Bên phải"
+
+#: ../functions.php:153
+msgid "Add languages currency widgets here."
+msgstr "Thêm tiện ích tiền tệ ngôn ngữ tại đây."
+
+#: ../functions.php:159
+msgid "SV : Main Block Widget Area"
+msgstr "Khối: Khu vực Tiện ích Chính"
+
+#: ../functions.php:174
+#, php-format
+msgid "Footer Widget Area %d"
+msgstr "Khu vực Tiện ích Chân trang %d"
+
+#: ../functions.php:177
+#, php-format
+msgid " Add Widgetized Footer Region %d."
+msgstr " Thêm Vùng Tiện ích Chân trang %d."
+
+#: ../functions.php:187
+msgid "Footer Quick Information Area"
+msgstr "Khu vực Thông tin nhanh Chân trang"
+
+#: ../functions.php:189
+msgid "Add quick contact information widgets here."
+msgstr "Thêm tiện ích thông tin liên hệ nhanh ở đây."
+
+#: ../inc/customizer.php:24
+msgid "General Settings"
+msgstr "Cài đặt Chung"
+
+#: ../inc/customizer.php:29
+msgid "Themes Colors"
+msgstr "Màu Chủ đề"
+
+#: ../inc/customizer.php:47
+msgid "Free vs Pro"
+msgstr "Miễn phí so với Pro"
+
+#: ../inc/customizer.php:48
+msgid "Compare"
+msgstr "So sánh"
+
+#: ../inc/customizer.php:57 ../inc/welcome/sections/getting_started.php:31
+msgid "Template Color"
+msgstr "Màu Mẫu"
+
+#: ../inc/customizer.php:64 ../inc/welcome/sections/getting_started.php:21
+msgid "Header Options"
+msgstr "Tùy chọn Đầu trang"
+
+#: ../inc/customizer.php:76 ../inc/customizer.php:99
+msgid "Enable / Disable Top Header"
+msgstr "Bật / Tắt Thanh Đầu trang"
+
+#: ../inc/customizer.php:80 ../inc/customizer.php:258 ../inc/customizer.php:291
+#: ../inc/customizer.php:482 ../inc/customizer.php:626
+msgid "Enable"
+msgstr "Bật"
+
+#: ../inc/customizer.php:81 ../inc/customizer.php:259 ../inc/customizer.php:292
+#: ../inc/customizer.php:483 ../inc/customizer.php:627
+msgid "Disable"
+msgstr "Tắt"
+
+#: ../inc/customizer.php:87
+msgid "Web Page Layout Options"
+msgstr "Tùy chọn Bố cục Trang Web"
+
+#: ../inc/customizer.php:103
+msgid "Box Layout"
+msgstr "Bố cục Hộp"
+
+#: ../inc/customizer.php:104
+msgid "Full Width Layout"
+msgstr "Bố cục Toàn Màn hình"
+
+#: ../inc/customizer.php:116
+msgid "Top Header Options"
+msgstr "Tùy chọn Thanh Đầu trang"
+
+#: ../inc/customizer.php:119 ../inc/customizer.php:638
+msgid "Top Navigation"
+msgstr "Điều hướng Trên cùng"
+
+#: ../inc/customizer.php:120 ../inc/customizer.php:639
+msgid "Quick Info"
+msgstr "Thông tin Nhanh"
+
+#: ../inc/customizer.php:133 ../inc/customizer.php:162
+#: ../inc/customizer.php:191 ../inc/customizer.php:220
+msgid "Select Features Icon"
+msgstr "Chọn Biểu tượng Tính năng"
+
+#: ../inc/customizer.php:147
+msgid "Email Address"
+msgstr "Địa chỉ Email"
+
+#: ../inc/customizer.php:176
+msgid "Phone Number"
+msgstr "Số Điện thoại"
+
+#: ../inc/customizer.php:205
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: ../inc/customizer.php:234
+msgid "Shop Opening Time"
+msgstr "Thời gian Mở Cửa hàng"
+
+#: ../inc/customizer.php:242
+msgid "Main Banner Section Area"
+msgstr "Khu vực Biểu ngữ Chính"
+
+#: ../inc/customizer.php:254
+msgid "Enable / Disable Main Banner Area"
+msgstr "Bật / Tắt Khu vực Biểu ngữ Chính"
+
+#: ../inc/customizer.php:270
+msgid "Select Slide Category"
+msgstr "Chọn Danh mục Trang Trình bày"
+
+#: ../inc/customizer.php:275
+msgid "Header Promo Section Area"
+msgstr "Khu vực Quảng cáo Đầu trang"
+
+#: ../inc/customizer.php:287
+msgid "Enable / Disable Main Header Promo Area"
+msgstr "Bật / Tắt Khu vực Quảng cáo Chính Đầu trang"
+
+#: ../inc/customizer.php:304
+msgid "Upload Promo One Image"
+msgstr "Tải lên Hình ảnh Quảng cáo Một"
+
+#: ../inc/customizer.php:316
+msgid "Promo One Link"
+msgstr "Liên kết Quảng cáo Một"
+
+#: ../inc/customizer.php:328
+msgid "Upload Promo Two Image"
+msgstr "Tải lên Hình ảnh Quảng cáo Hai"
+
+#: ../inc/customizer.php:340
+msgid "Promo Two Link"
+msgstr "Liên kết Quảng cáo Hai"
+
+#: ../inc/customizer.php:350
+msgid "Mange products and singel product page settings"
+msgstr "Cài đặt quản lý các sản phẩm và sản phẩm đơn lẻ"
+
+#: ../inc/customizer.php:352
+msgid "WooCommerce Products Area"
+msgstr "Khu vực Sản phẩm WooCommerce"
+
+#: ../inc/customizer.php:359
+msgid "Products Pages Settings"
+msgstr "Cài đặt Trang Sản phẩm"
+
+#: ../inc/customizer.php:371
+msgid "Select Products pages Layout"
+msgstr "Chọn Bố cục Các trang Sản phẩm"
+
+#: ../inc/customizer.php:388
+msgid "Select Products Pages Row"
+msgstr "Chọn Hàng Các trang Sản phẩm"
+
+#: ../inc/customizer.php:405
+msgid "Enter Products Display Per Page"
+msgstr "Nhập Sản phẩm Hiển thị Trên Mỗi Trang"
+
+#: ../inc/customizer.php:415
+msgid "Single Products Page Settings"
+msgstr "Cài đặt Trang Sản phẩm Đơn lẻ"
+
+#: ../inc/customizer.php:427
+msgid "Select Single Products Page Layout"
+msgstr "Chọn Bố cục Trang Sản phẩm Đơn lẻ"
+
+#: ../inc/customizer.php:444
+msgid "Enter Up Sell Title"
+msgstr "Nhập Tiêu đề Bán Gia tăng"
+
+#: ../inc/customizer.php:458
+msgid "Enter Related Products Title"
+msgstr "Nhập Tiêu đề Sản phẩm Liên quan"
+
+#: ../inc/customizer.php:466
+msgid "Brands Logo Section Area"
+msgstr "Khu vực Logo Thương hiệu"
+
+#: ../inc/customizer.php:478
+msgid "Options Enable/Disable Brands Loga Area"
+msgstr "Tùy chọn Bật / Tắt Khu vực Logo Thương hiệu"
+
+#: ../inc/customizer.php:495
+msgid "Brands Top Title"
+msgstr "Tiêu đề Phía trên của Thương hiệu"
+
+#: ../inc/customizer.php:508
+msgid "Brands Main Title"
+msgstr "Tiêu đề Chính của Thương hiệu"
+
+#: ../inc/customizer.php:521
+msgid "Upload Brands Logos"
+msgstr "Tải lên Các Logo Thương hiệu"
+
+#: ../inc/customizer.php:526
+msgid "Copyright Message Section"
+msgstr "Phần Tin nhắn Bản quyền"
+
+#: ../inc/customizer.php:538
+msgid "Copyright"
+msgstr "Bản quyền"
+
+#: ../inc/customizer.php:545
+msgid "Payment Logo Section"
+msgstr "Phần Logo Thanh toán"
+
+#: ../inc/customizer.php:556 ../inc/customizer.php:567
+#: ../inc/customizer.php:578 ../inc/customizer.php:589
+#: ../inc/customizer.php:600 ../inc/customizer.php:611
+msgid "Upload Payment Logo Image"
+msgstr "Tải lên Hình ảnh Logo Thanh toán"
+
+#: ../inc/extras.php:132 ../inc/storevilla-widget.php:624
+msgid "New"
+msgstr "Mới"
+
+#: ../inc/extras.php:207 ../inc/extras.php:215
+msgid "All Categories"
+msgstr "Sản phẩm"
+
+#: ../inc/extras.php:232
+msgid "Search entire store here"
+msgstr "Tìm sản phẩm"
+
+#: ../inc/extras.php:324
+msgid "Display Layout Options"
+msgstr "Tùy chọn Bố cục Hiển thị"
+
+#: ../inc/extras.php:337
+msgid "Left Sidebar"
+msgstr "Thanh Bên trái"
+
+#: ../inc/extras.php:342
+msgid "Right Sidebar(Default)"
+msgstr "Thanh Bên phải (Mặc định)"
+
+#: ../inc/extras.php:347
+msgid "Full width"
+msgstr "Toàn Màn hình"
+
+#: ../inc/extras.php:352
+msgid "Both Sidebar"
+msgstr "Cả hai Thanh bên"
+
+#: ../inc/extras.php:533
+msgid "&mdash; Select Category &mdash;"
+msgstr "&mdash; Chọn Danh mục &mdash;"
+
+#: ../inc/extras.php:581
+msgid "Add/Edit Gallery"
+msgstr "Thêm / Chỉnh sửa Thư viện"
+
+#: ../inc/extras.php:582
+msgid "Clear"
+msgstr "Xóa"
+
+#: ../inc/extras.php:632
+msgid "Sale!"
+msgstr "Giảm giá!"
+
+#: ../inc/extras.php:684
+msgid "View Details"
+msgstr "Xem Chi tiết"
+
+#: ../inc/extras.php:720
+msgid "Add To Wishlist"
+msgstr "Thêm vào Danh sách yêu thích"
+
+#: ../inc/extras.php:853
+msgid "View your shopping cart"
+msgstr "Xem giỏ hàng của bạn"
+
+#: ../inc/storevilla-widget.php:19
+msgid "SV: Woo Latest Category Product"
+msgstr "Khối: Danh mục sản phẩm mới nhất (Woo)"
+
+#: ../inc/storevilla-widget.php:20
+msgid "A widget that shows WooCommerce category latest product."
+msgstr "Một tiện ích hiển thị sản phẩm mới nhất của WooCommerce."
+
+#: ../inc/storevilla-widget.php:28 ../inc/storevilla-widget.php:497
+#: ../inc/storevilla-widget.php:764
+msgid "Category"
+msgstr "Danh mục"
+
+#: ../inc/storevilla-widget.php:29 ../inc/storevilla-widget.php:570
+#: ../inc/storevilla-widget.php:763
+msgid "Latest Product"
+msgstr "Sản phẩm Mới nhất"
+
+#: ../inc/storevilla-widget.php:30 ../inc/storevilla-widget.php:572
+#: ../inc/storevilla-widget.php:766
+msgid "Feature Product"
+msgstr "Sản phẩm Nổi bật"
+
+#: ../inc/storevilla-widget.php:53 ../inc/storevilla-widget.php:82
+#: ../inc/storevilla-widget.php:239 ../inc/storevilla-widget.php:826
+#: ../inc/storevilla-widget.php:871 ../inc/storevilla-widget.php:917
+msgid "Select Product Category"
+msgstr "Chọn Danh mục Sản phẩm"
+
+#: ../inc/storevilla-widget.php:63 ../inc/storevilla-widget.php:580
+msgid "Top Title"
+msgstr "Tiêu đề Trên đầu"
+
+#: ../inc/storevilla-widget.php:69 ../inc/storevilla-widget.php:586
+msgid "Product Main Title"
+msgstr "Tiêu đề Chính Sản phẩm"
+
+#: ../inc/storevilla-widget.php:75 ../inc/storevilla-widget.php:592
+#: ../inc/storevilla-widget.php:819 ../inc/storevilla-widget.php:864
+#: ../inc/storevilla-widget.php:910
+msgid "Select Product Type"
+msgstr "Chọn Loại Sản phẩm"
+
+#: ../inc/storevilla-widget.php:89 ../inc/storevilla-widget.php:246
+#: ../inc/storevilla-widget.php:599 ../inc/storevilla-widget.php:833
+#: ../inc/storevilla-widget.php:878 ../inc/storevilla-widget.php:925
+msgid "Enter Number of Products Show"
+msgstr "Nhập Số lượng Sản phẩm Hiện"
+
+#: ../inc/storevilla-widget.php:185
+msgid "SV: Woo Category With Product"
+msgstr "Khối: Danh mục Với Sản phẩm (Woo)"
+
+#: ../inc/storevilla-widget.php:186
+msgid ""
+"A widget that shows woocommerce category feature image with selected "
+"category products"
+msgstr ""
+"Một tiện ích hiển thị hình ảnh nổi bật danh mục thương mại điện tử với các "
+"sản phẩm danh mục được chọn"
+
+#: ../inc/storevilla-widget.php:193
+msgid "Right Align Category Image"
+msgstr "Hình ảnh Danh mục Căn lề Bên phải"
+
+#: ../inc/storevilla-widget.php:194
+msgid "Left Align Category Image"
+msgstr "Hình ảnh Danh mục Căn lề Bên trái"
+
+#: ../inc/storevilla-widget.php:226
+msgid "Product Category Main Title"
+msgstr "Tiêu đề Chính Danh mục Sản phẩm"
+
+#: ../inc/storevilla-widget.php:232
+msgid "Select Display Style (Image Alignment)"
+msgstr "Chọn Kiểu Hiển thị (Căn chỉnh hình ảnh)"
+
+#: ../inc/storevilla-widget.php:309
+msgid "View All"
+msgstr "Xem Tất cả"
+
+#: ../inc/storevilla-widget.php:382
+msgid "SV: Woo Category Section"
+msgstr "Khối: Vùng Danh mục (Woo)"
+
+#: ../inc/storevilla-widget.php:383
+msgid "A widget that shows WooCommerce category"
+msgstr "Một tiện ích hiển thị danh mục WooCommerce"
+
+#: ../inc/storevilla-widget.php:418
+msgid "Category Full Background Image"
+msgstr "Hình nền Đầy đủ của Danh mục"
+
+#: ../inc/storevilla-widget.php:424
+msgid "Category Top Title"
+msgstr "Tiêu đề Trên đầu của Danh mục"
+
+#: ../inc/storevilla-widget.php:429
+msgid "Category Main Title"
+msgstr "Tiêu đề Chính của Danh mục"
+
+#: ../inc/storevilla-widget.php:435
+msgid "Select Category"
+msgstr "Chọn Danh mục"
+
+#: ../inc/storevilla-widget.php:494
+msgid "Products"
+msgstr "Tất cả sản phẩm"
+
+#: ../inc/storevilla-widget.php:498
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: ../inc/storevilla-widget.php:561
+msgid "SV: Woo Product Section"
+msgstr "Khối: Vùng Sản phẩm (Woo)"
+
+#: ../inc/storevilla-widget.php:562
+msgid ""
+"A widget that shows WooCommerce all type product (Latest, Feature, On Sale, "
+"Up Sale)."
+msgstr ""
+"Một tiện ích hiển thị tất cả các loại sản phẩm WooCommerce (Mới nhất, Nổi "
+"bật, Giảm giá, Bán gia tăng)."
+
+#: ../inc/storevilla-widget.php:571 ../inc/storevilla-widget.php:765
+msgid "UpSell Product"
+msgstr "Sản phẩm Bán gia tăng"
+
+#: ../inc/storevilla-widget.php:573 ../inc/storevilla-widget.php:767
+msgid "On Sale Product"
+msgstr "Sản phẩm Đang bán"
+
+#: ../inc/storevilla-widget.php:754
+msgid "SV: Woo Product Column"
+msgstr "Khối: Cột sản phẩm (Woo)"
+
+#: ../inc/storevilla-widget.php:755
+msgid ""
+"A widget that shows WooCommerce all type product (Latest, Feature, On Sale, "
+"Up Sale) in column view."
+msgstr ""
+"Một tiện ích hiển thị tất cả các loại sản phẩm WooCommerce (Mới nhất, Nổi "
+"bật, Giảm giá, Bán gia tăng) trong chế độ xem cột."
+
+#: ../inc/storevilla-widget.php:801
+msgid "Product Column One"
+msgstr "Cột Sản phẩm Một"
+
+#: ../inc/storevilla-widget.php:807
+msgid "Checked to Display One Column"
+msgstr "Đã chọn để Hiển thị Một Cột"
+
+#: ../inc/storevilla-widget.php:813
+msgid "Column One Main Title"
+msgstr "Tiêu đề chính Cột Một"
+
+#: ../inc/storevilla-widget.php:845
+msgid "Product Column Two"
+msgstr "Cột Sản phẩm Hai"
+
+#: ../inc/storevilla-widget.php:852
+msgid "Checked to Display Two Column"
+msgstr "Đã chọn để Hiển thị Hai Cột"
+
+#: ../inc/storevilla-widget.php:858
+msgid "Column Two Main Title"
+msgstr "Tiêu đề chính Cột Ba"
+
+#: ../inc/storevilla-widget.php:891
+msgid "Product Column Three"
+msgstr "Cột Sản phẩm Ba"
+
+#: ../inc/storevilla-widget.php:898
+msgid "Checked to Display Three Column"
+msgstr "Đã chọn để Hiển thị Ba Cột"
+
+#: ../inc/storevilla-widget.php:904
+msgid "Column Three Main Title"
+msgstr "Tiêu đề chính Cột Bốn"
+
+#: ../inc/storevilla-widget.php:1084
+msgid "SV: Quick Contact Info"
+msgstr "Khối: Thông tin Liên hệ Nhanh"
+
+#: ../inc/storevilla-widget.php:1085
+msgid "A widget that shows quick contact information"
+msgstr "Một tiện ích hiển thị thông tin liên hệ nhanh"
+
+#: ../inc/storevilla-widget.php:1095
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: ../inc/storevilla-widget.php:1100
+msgid "Contact Address"
+msgstr "Địa chỉ Liên hệ"
+
+#: ../inc/storevilla-widget.php:1106
+msgid "Contact Number"
+msgstr "Số Liên hệ"
+
+#: ../inc/storevilla-widget.php:1111
+msgid "Contact Email Address"
+msgstr "Địa chỉ Email Liên hệ"
+
+#: ../inc/storevilla-widget.php:1195
+msgid "SV: About Us Information"
+msgstr "Khối: Giới thiệu về chúng tôi"
+
+#: ../inc/storevilla-widget.php:1196
+msgid "A widget that shows About Us information"
+msgstr "Một tiện ích hiển thị thông tin Giới thiệu về chúng tôi"
+
+#: ../inc/storevilla-widget.php:1206
+msgid "Upload Image"
+msgstr "Tải lên Hình ảnh"
+
+#: ../inc/storevilla-widget.php:1212
+msgid "Short Description"
+msgstr "Mô tả Ngắn"
+
+#: ../inc/storevilla-widget.php:1219
+msgid "Facebook Url"
+msgstr "Địa chỉ Facebook"
+
+#: ../inc/storevilla-widget.php:1225
+msgid "Twitter Url"
+msgstr "Địa chỉ Twitter"
+
+#: ../inc/storevilla-widget.php:1231
+msgid "Google Plus Url"
+msgstr "Địa chỉ Google Plus"
+
+#: ../inc/storevilla-widget.php:1237
+msgid "Youtube Url"
+msgstr "Địa chỉ Youtube"
+
+#: ../inc/storevilla-widget.php:1243
+msgid "Linkedin Url"
+msgstr "Địa chỉ Linkedin"
+
+#: ../inc/storevilla-widget.php:1249
+msgid "Pinterest Url"
+msgstr "Địa chỉ Pinterest"
+
+#: ../inc/storevilla-widget.php:1353
+msgid "SV: Blogs Widget Section"
+msgstr "Khối: Vùng Tiện ích Blogs"
+
+#: ../inc/storevilla-widget.php:1354
+msgid "A widget that shows blogs posts"
+msgstr "Một tiện ích hiển thị các bài đăng trên blogs"
+
+#: ../inc/storevilla-widget.php:1378
+msgid "Blogs Top Title"
+msgstr "Tiêu đề Phía trên Blogs"
+
+#: ../inc/storevilla-widget.php:1384
+msgid "Blogs Main Title"
+msgstr "Tiêu đề Chính Blogs"
+
+#: ../inc/storevilla-widget.php:1390 ../inc/storevilla-widget.php:1581
+msgid "Select Blogs Category"
+msgstr "Chọn Danh mục Blogs"
+
+#: ../inc/storevilla-widget.php:1397
+msgid "Display Posts Order"
+msgstr "Hiển thị Bài viết Theo thứ tự"
+
+#: ../inc/storevilla-widget.php:1487
+msgid "READ MORE"
+msgstr "ĐỌC THÊM"
+
+#: ../inc/storevilla-widget.php:1544
+msgid "SV: Testimonial Widget Section"
+msgstr "Khối: Vùng Tiện ích Chứng thực"
+
+#: ../inc/storevilla-widget.php:1545
+msgid "A widget that shows client testimonial posts"
+msgstr "Một tiện ích hiển thị bài đăng chứng thực của khách hàng"
+
+#: ../inc/storevilla-widget.php:1569
+msgid "Testimonial Top Title"
+msgstr "Tiêu đề Phía trên Chứng thực"
+
+#: ../inc/storevilla-widget.php:1575
+msgid "Testimonial Main Title"
+msgstr "Tiêu đề Chính Chứng thực"
+
+#: ../inc/storevilla-widget.php:1588
+msgid "Upload Background Image"
+msgstr "Tải lên Hình Nền"
+
+#: ../inc/storevilla-widget.php:1946
+msgid "No file chosen"
+msgstr "Không có tập tin nào được chọn"
+
+#: ../inc/storevilla-widget.php:1951 ../inc/storevilla-widget.php:2032
+msgid "Upload"
+msgstr "Tải lên"
+
+#: ../inc/storevilla-widget.php:1955 ../inc/storevilla-widget.php:1970
+#: ../inc/storevilla-widget.php:2033
+msgid "Remove"
+msgstr "Xóa"
+
+#: ../inc/storevilla-widget.php:1960
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+"Nâng cấp phiên bản WordPress của bạn để được hỗ trợ phương tiện đầy đủ."
+
+#: ../inc/storevilla-widget.php:1977
+msgid "View File"
+msgstr "Xem Tập Tin"
+
+#: ../inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Được đăng vào %s"
+
+#: ../inc/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "bởi %s"
+
+#: ../inc/template-tags.php:52 ../inc/template-tags.php:59
+msgid ", "
+msgstr ", "
+
+#: ../inc/template-tags.php:55
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Được đăng trong %1$s"
+
+#: ../inc/template-tags.php:62
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Được gắn thẻ %1$s"
+
+#: ../inc/template-tags.php:69
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Để lại một Bình luận<span class=\"screen-reader-text\"> trên %s</span>"
+
+#: ../inc/template-tags.php:76
+#, php-format
+msgid "Edit %s"
+msgstr "Sửa %s"
+
+#: ../inc/template-tags.php:146
+msgid "Skip to navigation"
+msgstr "Chuyển tới điều hướng"
+
+#: ../inc/template-tags.php:147
+msgid "Skip to content"
+msgstr "Chuyển đến nội dung"
+
+#: ../inc/template-tags.php:234 ../inc/template-tags.php:235
+msgid "My Account"
+msgstr "Tài khoản của tôi"
+
+#: ../inc/template-tags.php:241
+msgid " Logout"
+msgstr " Đăng xuất"
+
+#: ../inc/template-tags.php:247
+msgid "Login / Register"
+msgstr "Đăng nhập / Đăng ký"
+
+#: ../inc/template-tags.php:257 ../inc/template-tags.php:258
+msgid "Wishlist"
+msgstr "Danh sách yêu thích"
+
+#: ../inc/template-tags.php:546
+msgid "View More"
+msgstr "Xem Thêm"
+
+#: ../inc/welcome/sections/actions_required.php:52
+#: ../inc/welcome/sections/actions_required.php:111
+msgid "Version "
+msgstr "Phiên bản "
+
+#: ../inc/welcome/sections/demo_import.php:117
+msgid "Install : "
+msgstr "Cài đặt : "
+
+#: ../inc/welcome/sections/demo_import.php:117
+msgid " Plugin"
+msgstr " Plugin"
+
+#: ../inc/welcome/sections/free_vs_pro.php:4
+#: ../inc/welcome/sections/free_vs_pro.php:222
+msgid "Upgrade to Pro"
+msgstr "Nâng cấp lên Pro"
+
+#: ../inc/welcome/sections/free_vs_pro.php:5
+#: ../inc/welcome/sections/free_vs_pro.php:223
+msgid "Upgrade to pro version for additional features and better supports."
+msgstr ""
+"Nâng cấp lên phiên bản chuyên nghiệp để có thêm các tính năng và hỗ trợ tốt "
+"hơn."
+
+#: ../inc/welcome/sections/free_vs_pro.php:8
+#: ../inc/welcome/sections/free_vs_pro.php:226
+msgid "Buy Now"
+msgstr "Mua Ngay"
+
+#: ../inc/welcome/sections/free_vs_pro.php:12
+msgid "Features"
+msgstr "Đặc trưng"
+
+#: ../inc/welcome/sections/free_vs_pro.php:13
+msgid "Free"
+msgstr "Miễn phí"
+
+#: ../inc/welcome/sections/free_vs_pro.php:14
+msgid "Pro"
+msgstr "Pro"
+
+#: ../inc/welcome/sections/free_vs_pro.php:18
+msgid "Demo Import"
+msgstr "Nhập demo"
+
+#: ../inc/welcome/sections/free_vs_pro.php:19
+msgid ""
+"Tired of configuring site from scratch. Installation of demo is just one "
+"click away."
+msgstr ""
+"Mệt mỏi với việc cấu hình trang web từ đầu. Cài đặt bản demo chỉ cần một cú "
+"nhấp chuột."
+
+#: ../inc/welcome/sections/free_vs_pro.php:30
+msgid "Customizer Based"
+msgstr "Dựa trên tùy biến"
+
+#: ../inc/welcome/sections/free_vs_pro.php:31
+msgid "Preview your changes as you build your site."
+msgstr "Xem trước các thay đổi của bạn khi bạn xây dựng trang web của mình."
+
+#: ../inc/welcome/sections/free_vs_pro.php:42
+msgid "Template Color Option"
+msgstr "Tùy chọn màu mẫu"
+
+#: ../inc/welcome/sections/free_vs_pro.php:43
+msgid "Choose any theme skin color you like."
+msgstr "Chọn bất kỳ màu chủ đề nào bạn thích."
+
+#: ../inc/welcome/sections/free_vs_pro.php:54
+msgid "Typography Option"
+msgstr "Tùy chọn kiểu chữ"
+
+#: ../inc/welcome/sections/free_vs_pro.php:55
+msgid "Change the fonts settings for the entire site."
+msgstr "Thay đổi cài đặt phông chữ cho toàn bộ trang web."
+
+#: ../inc/welcome/sections/free_vs_pro.php:66
+msgid "Header Layouts"
+msgstr "Bố cục Đầu trang"
+
+#: ../inc/welcome/sections/free_vs_pro.php:67
+msgid "Choose any one header layout from available 3 header layouts."
+msgstr "Chọn bất kỳ một bố cục tiêu đề nào từ 3 bố cục tiêu đề có sẵn."
+
+#: ../inc/welcome/sections/free_vs_pro.php:73
+msgid "3"
+msgstr "3"
+
+#: ../inc/welcome/sections/free_vs_pro.php:78
+msgid "Breadcrumb Option"
+msgstr "Tùy chọn Breadcrumb"
+
+#: ../inc/welcome/sections/free_vs_pro.php:79
+msgid "Keep track of locations within site."
+msgstr "Theo dõi các vị trí trong trang web."
+
+#: ../inc/welcome/sections/free_vs_pro.php:90
+msgid "Responsive Design"
+msgstr "Thiết kế đáp ứng"
+
+#: ../inc/welcome/sections/free_vs_pro.php:91
+msgid "Displays fine in device with screen sizes."
+msgstr "Hiển thị tốt trong thiết bị với kích thước màn hình."
+
+#: ../inc/welcome/sections/free_vs_pro.php:102
+msgid "Custom Post Types"
+msgstr "Loại bài đăng tùy chỉnh"
+
+#: ../inc/welcome/sections/free_vs_pro.php:103
+msgid ""
+"Separate Custom Post type to uniquely identify the post pages with separate "
+"designs."
+msgstr ""
+"Loại bài đăng tùy chỉnh riêng biệt để xác định duy nhất các trang bài đăng "
+"có thiết kế riêng biệt."
+
+#: ../inc/welcome/sections/free_vs_pro.php:109
+msgid "2"
+msgstr "2"
+
+#: ../inc/welcome/sections/free_vs_pro.php:114
+msgid "Preloader Option"
+msgstr "Tùy chọn Đầu trangTùy chọn trình tải trước"
+
+#: ../inc/welcome/sections/free_vs_pro.php:115
+msgid "Set the with a preloader to prevent displaying of scrambled site."
+msgstr "Đặt với trình tải trước để ngăn hiển thị trang web bị xáo trộn."
+
+#: ../inc/welcome/sections/free_vs_pro.php:126
+msgid "Offers/Deals Section"
+msgstr "Phần Ưu đãi / Ưu đãi"
+
+#: ../inc/welcome/sections/free_vs_pro.php:127
+msgid ""
+"Display deals/offers in an attractive way to display product image, time, "
+"product details and price."
+msgstr ""
+"Hiển thị các ưu đãi / ưu đãi một cách hấp dẫn để hiển thị hình ảnh sản phẩm, "
+"thời gian, chi tiết sản phẩm và giá cả."
+
+#: ../inc/welcome/sections/free_vs_pro.php:138
+msgid "Horizontal Category Ajax Tabs"
+msgstr "Ba tab Ajax danh mục ngang khác nhauTab Ajax danh mục ngang"
+
+#: ../inc/welcome/sections/free_vs_pro.php:139
+msgid ""
+"Showcase your WooCommerce collection categories in beautiful horizontal tab."
+msgstr ""
+"Hiển thị các danh mục bộ sưu tập WooCommerce của bạn trong tab ngang đẹp mắt."
+
+#: ../inc/welcome/sections/free_vs_pro.php:150
+msgid "Blog Layouts"
+msgstr "Bố cục HộpBố cục Blog"
+
+#: ../inc/welcome/sections/free_vs_pro.php:151
+msgid ""
+"Choose any one from the three beautifully designed blog layouts available "
+"for homepage"
+msgstr ""
+"Chọn bất kỳ một trong ba bố cục blog được thiết kế đẹp mắt có sẵn cho trang "
+"chủ"
+
+#: ../inc/welcome/sections/free_vs_pro.php:162
+msgid "Custom Widgets"
+msgstr "Tiện ích tùy chỉnh"
+
+#: ../inc/welcome/sections/free_vs_pro.php:163
+msgid ""
+"Display Your awesome team right on homepage, StreVilla Pro offers a "
+"brilliant layout for team section."
+msgstr ""
+"Hiển thị nhóm tuyệt vời của bạn ngay trên trang chủ, StoreVilla Pro cung cấp "
+"bố cục tuyệt vời cho phần nhóm."
+
+#: ../inc/welcome/sections/free_vs_pro.php:166
+msgid "7"
+msgstr ""
+
+#: ../inc/welcome/sections/free_vs_pro.php:169
+msgid "21"
+msgstr ""
+
+#: ../inc/welcome/sections/free_vs_pro.php:174
+msgid "Inbuilt Shortcodes"
+msgstr "Mã ngắn có sẵn"
+
+#: ../inc/welcome/sections/free_vs_pro.php:175
+msgid "Build feature rich pages using beautiful inbuilt shortcodes."
+msgstr ""
+"Xây dựng các trang giàu tính năng bằng cách sử dụng các mã ngắn có sẵn đẹp "
+"mắt."
+
+#: ../inc/welcome/sections/free_vs_pro.php:181
+msgid "13"
+msgstr ""
+
+#: ../inc/welcome/sections/free_vs_pro.php:186
+msgid "Custom Footer Text"
+msgstr "Tùy chỉnh văn bản chân trang"
+
+#: ../inc/welcome/sections/free_vs_pro.php:187
+msgid "Configure custom text to appear in the footer."
+msgstr "Cấu hình văn bản tùy chỉnh để xuất hiện trong chân trang."
+
+#: ../inc/welcome/sections/free_vs_pro.php:198
+msgid "Woocommerce Sidebar Option"
+msgstr "Tùy chọn thanh bên Woocommerce"
+
+#: ../inc/welcome/sections/free_vs_pro.php:199
+msgid "Dynamically assign the sidebars to the woocommerce pages."
+msgstr "Tự động gán các sidebars cho các trang woocommerce."
+
+#: ../inc/welcome/sections/free_vs_pro.php:210
+msgid "SEO Optimized"
+msgstr "Tối ưu hóa SEO"
+
+#: ../inc/welcome/sections/free_vs_pro.php:211
+msgid "Google will love it."
+msgstr "Google sẽ thích nó."
+
+#: ../inc/welcome/sections/getting_started.php:5
+msgid "Links to Customizer Settings"
+msgstr "Liên kết đến Cài đặt tùy chỉnh"
+
+#: ../inc/welcome/sections/getting_started.php:11
+msgid "Upload Logo"
+msgstr "Tải lên Logo"
+
+#: ../inc/welcome/sections/getting_started.php:16
+msgid "Woo Product Area"
+msgstr "Khu vực Sản phẩm Woo"
+
+#: ../inc/welcome/sections/getting_started.php:26
+msgid "Webpage Layouts Options"
+msgstr "Tùy chọn Bố cục Trang web"
+
+#: ../inc/welcome/sections/getting_started.php:36
+msgid "Copyright Options"
+msgstr "Tùy chọn Bản quyền"
+
+#: ../inc/welcome/sections/getting_started.php:51
+msgid "Step 1 - Checkout starter sites (Demos) "
+msgstr "Bước 1 - Kiểm tra các trang web bắt đầu (Demos) "
+
+#: ../inc/welcome/sections/getting_started.php:52
+#, php-format
+msgid ""
+"%1$s now comes with a sites library with 1 starter sites to pick from. You "
+"can check theme out and decide which one to start with. However you can "
+"decide not to use any one of them and start building your site from scratch."
+msgstr ""
+"%1$s hiện đi kèm với thư viện trang web với 1 trang web bắt đầu để chọn. Bạn "
+"có thể xem chủ đề và quyết định nên bắt đầu với chủ đề nào. Tuy nhiên, bạn "
+"có thể quyết định không sử dụng bất kỳ cái nào trong số chúng và bắt đầu xây "
+"dựng trang web của mình từ đầu."
+
+#: ../inc/welcome/sections/getting_started.php:53
+msgid "See Demos"
+msgstr "Xem bản Demo"
+
+#: ../inc/welcome/sections/getting_started.php:59
+msgid "Step 2 - Import demo of your choice "
+msgstr "Bước 2 - Nhập bản demo bạn chọn "
+
+#: ../inc/welcome/sections/getting_started.php:60
+msgid ""
+"Once you chose one of the available starter sites (demos) - you can install "
+"it. Please be noted that once you install the demo, it will install all the "
+"required plugins too. It is not recommended to install demo on your existing "
+"content. A fresh WordPress installation would be required to install demo to "
+"replicate demo content exactly. "
+msgstr ""
+"Khi bạn đã chọn một trong các trang web bắt đầu có sẵn (demo) - bạn có thể "
+"cài đặt nó. Xin lưu ý rằng khi bạn cài đặt bản demo, nó cũng sẽ cài đặt tất "
+"cả các plugin cần thiết. Bạn không nên cài đặt bản demo trên nội dung hiện "
+"có của mình. Một cài đặt WordPress mới sẽ được yêu cầu để cài đặt bản demo "
+"để sao chép chính xác nội dung demo. "
+
+#: ../inc/welcome/sections/getting_started.php:61
+msgid "Install Demo"
+msgstr "Cài đặt Demo"
+
+#: ../inc/welcome/sections/getting_started.php:64
+msgid "Step 3 - Start editing the demo content and making your site! "
+msgstr "Bước 3 - Bắt đầu chỉnh sửa nội dung demo và tạo trang web của bạn! "
+
+#: ../inc/welcome/sections/getting_started.php:65
+msgid ""
+"Once you install the demo, you can start editing the content, replacing "
+"images etc."
+msgstr ""
+"Sau khi cài đặt bản demo, bạn có thể bắt đầu chỉnh sửa nội dung, thay thế "
+"hình ảnh, v.v."
+
+#: ../inc/welcome/sections/getting_started.php:68
+msgid "Step 4 - You 're done! "
+msgstr "Bước 4 - Bạn đã hoàn tất! "
+
+#: ../inc/welcome/sections/getting_started.php:69
+msgid "Go live with the website and get some rest"
+msgstr "Trực tiếp với trang web và nghỉ ngơi"
+
+#: ../inc/welcome/sections/support.php:4
+msgid "Create Support Tickets"
+msgstr "Tạo vé hỗ trợ"
+
+#: ../inc/welcome/sections/support.php:5
+msgid ""
+"If you're having any issues with the theme, feel free to create a ticket in "
+"our support forum. We reply your ticket very soon!"
+msgstr ""
+"Nếu bạn đang gặp bất kỳ vấn đề nào với chủ đề, vui lòng tạo một vé trong "
+"diễn đàn hỗ trợ của chúng tôi. Chúng tôi trả lời vé của bạn sớm!"
+
+#: ../inc/welcome/sections/support.php:6
+msgid "Create Ticket"
+msgstr "Tạo vé"
+
+#: ../inc/welcome/sections/support.php:12
+msgid "Online Chat"
+msgstr "Trò chuyện trực tuyến"
+
+#: ../inc/welcome/sections/support.php:13
+msgid ""
+"If you need an immediate solution, you can try our online chat support too. "
+"However our online time is limited and as below"
+msgstr ""
+"Nếu bạn cần một giải pháp tức thì, bạn cũng có thể thử hỗ trợ trò chuyện "
+"trực tuyến của chúng tôi. Tuy nhiên, thời gian trực tuyến của chúng tôi có "
+"hạn và như bên dưới"
+
+#: ../inc/welcome/sections/support.php:14
+msgid "Mon - Fri"
+msgstr "Thứ Hai - Thứ Sáu"
+
+#: ../inc/welcome/sections/support.php:15
+msgid "10AM - 5PM "
+msgstr "10 giờ sáng - 5 giờ chiều "
+
+#: ../inc/welcome/sections/support.php:16
+msgid "Kathmandu Time (GMT + 5:45)"
+msgstr "Giờ Kathmandu (GMT + 5:45)"
+
+#: ../inc/welcome/sections/support.php:17
+msgid "Start Online Chat"
+msgstr "Bắt đầu trò chuyện trực tuyến"
+
+#: ../inc/welcome/sections/support.php:23
+msgid "Email to support team"
+msgstr "Gửi email tới nhóm hỗ trợ"
+
+#: ../inc/welcome/sections/support.php:24
+msgid ""
+"You can also email to our support team directly at : "
+"support@accesspressthemes.com."
+msgstr ""
+"Bạn cũng có thể gửi email trực tiếp đến nhóm hỗ trợ của chúng tôi tại: "
+"support@accesspressthemes.com."
+
+#: ../inc/welcome/sections/support.php:31 ../inc/welcome/welcome.php:143
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: ../inc/welcome/sections/support.php:32
+msgid ""
+"Checkout our documentation and get more details on how to setup / configure "
+"theme step by step."
+msgstr ""
+"Kiểm tra tài liệu của chúng tôi và xem thêm chi tiết về cách thiết lập / "
+"định cấu hình chủ đề từng bước."
+
+#: ../inc/welcome/sections/support.php:33
+msgid "View Documentation"
+msgstr "Xem tài liệu"
+
+#: ../inc/welcome/welcome-config.php:61
+msgid "Access Demo Importer"
+msgstr "Truy cập Trình nhập bản trình diễn"
+
+#: ../inc/welcome/welcome-config.php:65
+msgid ""
+"Access Demo Importer adds the feature to Import the Demo Conent with a "
+"single click."
+msgstr ""
+"Access Demo Importer thêm tính năng Nhập Nội dung Demo chỉ với một cú nhấp "
+"chuột."
+
+#: ../inc/welcome/welcome-config.php:87
+msgid "StoreVilla Welcome"
+msgstr "StoreVilla Chào mừng"
+
+#: ../inc/welcome/welcome-config.php:88
+msgid ""
+"StoreVilla is an elegantly designed free eCommerce WordPress theme. It is "
+"powered by the wonderful WooCommerce plugin and its extension to let you "
+"build a successful online store with an ease. It is a complete eCommerce "
+"package with all required features and functionalities. Its alluring and "
+"flexible design looks great on any kind of online stores such as fashion, "
+"jewelry, cosmetics, etc. The theme is inbuilt with cool customizer tool - "
+"you can easily configure the design, settings and other elements as per your "
+"wish. It features unlimited slider options, background configuration, "
+"advanced product search, multiple category display layout, 2 page layout, "
+"well organized homepage sections and much more. It's a perfect theme to "
+"start your online shop of any kind. Moreover, the theme comes with 10+ "
+"custom widgets - enhance the functionality of your eCommerce site and give "
+"your customers the best online shopping experience. All the WooCommerce "
+"settings are enabled in the theme - you can easily add any products in the "
+"store and feature it anywhere in any way. It is fully responsive, "
+"translation ready and SEO friendly theme. With StoreVilla - you can "
+"effortlessly create an online store of your dream, Demo: http://"
+"accesspressthemes.com/theme-demos/?theme=storevilla Support forum: https://"
+"accesspressthemes.com/support/forum/themes/free-themes/storevilla/"
+msgstr ""
+"StoreVilla là một chủ đề WordPress thương mại điện tử miễn phí được thiết kế "
+"trang nhã. Nó được cung cấp bởi plugin WooCommerce tuyệt vời và phần mở rộng "
+"của nó để cho phép bạn xây dựng một cửa hàng trực tuyến thành công một cách "
+"dễ dàng. Nó là một gói Thương mại điện tử hoàn chỉnh với tất cả các tính "
+"năng và chức năng cần thiết. Thiết kế quyến rũ và linh hoạt của nó trông "
+"tuyệt vời trên bất kỳ loại cửa hàng trực tuyến nào như thời trang, đồ trang "
+"sức, mỹ phẩm, v.v. Chủ đề được tích hợp sẵn với công cụ tùy biến thú vị - "
+"bạn có thể dễ dàng định cấu hình thiết kế, cài đặt và các yếu tố khác theo ý "
+"muốn của mình. Nó có các tùy chọn thanh trượt không giới hạn, cấu hình nền, "
+"tìm kiếm sản phẩm nâng cao, bố cục hiển thị nhiều danh mục, bố cục 2 trang, "
+"các phần trang chủ được tổ chức tốt và hơn thế nữa. Đó là một chủ đề hoàn "
+"hảo để bắt đầu cửa hàng trực tuyến của bạn dưới bất kỳ hình thức nào. Hơn "
+"nữa, chủ đề đi kèm với hơn 10 vật dụng tùy chỉnh - nâng cao chức năng của "
+"trang Thương mại điện tử và mang đến cho khách hàng của bạn trải nghiệm mua "
+"sắm trực tuyến tốt nhất. Tất cả cài đặt WooCommerce đều được bật trong chủ "
+"đề - bạn có thể dễ dàng thêm bất kỳ sản phẩm nào trong cửa hàng và giới "
+"thiệu sản phẩm đó ở bất kỳ đâu theo bất kỳ cách nào. Nó hoàn toàn đáp ứng, "
+"sẵn sàng dịch và chủ đề thân thiện với SEO. Với StoreVilla - bạn có thể dễ "
+"dàng tạo một cửa hàng trực tuyến trong mơ của mình, Demo: http://"
+"accesspressthemes.com/theme-demos/?theme=storevilla Diễn đàn hỗ trợ: https://"
+"accesspressthemes.com/support/forum/themes/free-themes/storevilla/"
+
+#: ../inc/welcome/welcome-config.php:91
+msgid "Install and Activate"
+msgstr "Cài đặt và kích hoạt"
+
+#: ../inc/welcome/welcome-config.php:92
+msgid "Deactivate"
+msgstr "Hủy kích hoạt"
+
+#: ../inc/welcome/welcome-config.php:93 ../inc/welcome/welcome-config.php:108
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: ../inc/welcome/welcome-config.php:96
+msgid "Step 1 - Documentation"
+msgstr "Bước 1 - Tài liệu"
+
+#: ../inc/welcome/welcome-config.php:97
+msgid ""
+"Read the Documentation and follow the instructions to manage the site , it "
+"helps you to set up the theme more easily and quickly. The Documentation is "
+"very easy with its pictorial  and well managed listed instructions. "
+msgstr ""
+"Đọc Tài liệu và làm theo hướng dẫn để quản lý trang web, nó giúp bạn thiết "
+"lập chủ đề dễ dàng và nhanh chóng hơn. Tài liệu rất dễ dàng với các hướng "
+"dẫn được liệt kê bằng hình ảnh và được quản lý tốt. "
+
+#: ../inc/welcome/welcome-config.php:99
+msgid "Read Now"
+msgstr "Đọc ngay"
+
+#: ../inc/welcome/welcome-config.php:100
+msgid "Step 2 - Customizer Panel"
+msgstr "Bước 2 - Bảng điều khiển tùy chỉnh"
+
+#: ../inc/welcome/welcome-config.php:101
+msgid "Go to Customizer Panels"
+msgstr "Đi tới Bảng tùy chỉnh"
+
+#: ../inc/welcome/welcome-config.php:104 ../inc/welcome/welcome-config.php:118
+msgid "Premium Plugins"
+msgstr "Plugin cao cấp"
+
+#: ../inc/welcome/welcome-config.php:105 ../inc/welcome/welcome-config.php:119
+msgid "Free Plugins"
+msgstr "Plugin miễn phí"
+
+#: ../inc/welcome/welcome-config.php:109
+msgid "Activated"
+msgstr "Đã kích hoạt"
+
+#: ../inc/welcome/welcome-config.php:110
+msgid "Installing Demo"
+msgstr "Cài đặt Demo"
+
+#: ../inc/welcome/welcome-config.php:111
+msgid "Demo Installed"
+msgstr "Đã cài đặt bản demo"
+
+#: ../inc/welcome/welcome-config.php:112
+msgid "Are you sure to import demo content ?"
+msgstr "Bạn có chắc chắn nhập nội dung demo không?"
+
+#: ../inc/welcome/welcome-config.php:115
+msgid ""
+"All these required plugins will be installed and activated while importing "
+"demo. Or you can choose to install and activate them manually. If you're not "
+"importing any of the demos, you must install and activate these plugins "
+"manually."
+msgstr ""
+"Tất cả các plugin bắt buộc này sẽ được cài đặt và kích hoạt trong khi nhập "
+"bản trình diễn. Hoặc bạn có thể chọn cài đặt và kích hoạt chúng theo cách "
+"thủ công. Nếu bạn không nhập bất kỳ bản demo nào, bạn phải cài đặt và kích "
+"hoạt các plugin này theo cách thủ công."
+
+#: ../inc/welcome/welcome-config.php:116
+msgid "All Recommended action has been successfully completed."
+msgstr "Tất cả hành động được đề xuất đã được hoàn thành thành công."
+
+#: ../inc/welcome/welcome-config.php:117
+msgid "Customize Theme"
+msgstr "Tùy chỉnh chủ đề"
+
+#: ../inc/welcome/welcome.php:35
+msgid "Getting Started"
+msgstr "Bắt đầu"
+
+#: ../inc/welcome/welcome.php:36
+msgid "Recommended Plugins"
+msgstr "Các plugin được đề xuất"
+
+#: ../inc/welcome/welcome.php:37
+msgid "Import Demo"
+msgstr "Nhập Demo"
+
+#: ../inc/welcome/welcome.php:38
+msgid "Free Vs Pro"
+msgstr "Miễn phí so với Pro"
+
+#: ../inc/welcome/welcome.php:39
+msgid "ChangeLog"
+msgstr "Nhật ký Thay đổi"
+
+#: ../inc/welcome/welcome.php:40
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: ../inc/welcome/welcome.php:115
+msgid "Welcome!"
+msgstr "Chào mừng!"
+
+#: ../inc/welcome/welcome.php:116
+#, php-format
+msgid ""
+"Thank you for installing %1$s. It is now installed and ready to use. Here "
+"are some useful links to get started: "
+msgstr ""
+"Cảm ơn bạn đã cài đặt %1$s. Nó hiện đã được cài đặt và sẵn sàng sử dụng. "
+"Dưới đây là một số liên kết hữu ích để bắt đầu: "
+
+#: ../inc/welcome/welcome.php:124
+msgid "Starter site demos!"
+msgstr "Các trang web demo bắt đầu!"
+
+#: ../inc/welcome/welcome.php:130
+msgid "ready to use starter sites."
+msgstr "sẵn sàng sử dụng các trang web bắt đầu."
+
+#: ../inc/welcome/welcome.php:146
+msgid "Full Documentation"
+msgstr "Tài liệu đầy đủ"
+
+#: ../inc/welcome/welcome.php:147
+msgid "Contact Support"
+msgstr "Liên hệ hỗ trợ"
+
+#: ../inc/welcome/welcome.php:211
+msgid "Get connected, share your opinions and more via our social community: "
+msgstr ""
+"Hãy kết nối, chia sẻ ý kiến của bạn và hơn thế nữa thông qua cộng đồng xã "
+"hội của chúng tôi: "
+
+#: ../inc/welcome/welcome.php:213
+msgid " -to receive updates, offers and more."
+msgstr " -để nhận cập nhật, ưu đãi và hơn thế nữa."
+
+#: ../inc/welcome/welcome.php:215
+msgid " -for tutorials, videos and more."
+msgstr " -cho hướng dẫn, video và hơn thế nữa."
+
+#: ../inc/welcome/welcome.php:217
+msgid " -to stay updated. "
+msgstr " -để luôn được cập nhật. "
+
+#: ../inc/welcome/welcome.php:221
+#, php-format
+msgid "Are you enjoying %1$s? We would love to hear your feedback!"
+msgstr "Bạn có thích %1$s không? Chúng tôi rất muốn nghe phản hồi của bạn!"
+
+#: ../inc/welcome/welcome.php:360
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Xin lỗi, bạn không được phép cài đặt các plugin trên trang web này."
+
+#: ../inc/welcome/welcome.php:370
+msgid "Error - unable to verify nonce, please try again."
+msgstr "Lỗi - không thể xác minh nonce, vui lòng thử lại."
+
+#: ../inc/welcome/welcome.php:462 ../inc/welcome/welcome.php:482
+msgid "Plugin Does not Exists"
+msgstr "Plugin không tồn tại"
+
+#: ../search.php:19
+#, php-format
+msgid "Search Results for : %s"
+msgstr "Kết quả tìm kiếm cho: %s"
+
+#: ../template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: ../template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Đã sẵn sàng để đăng bài viết đầu tiên của bạn? <a href=\"%1$s\">Hãy bắt đầu "
+"từ đây</a>."
+
+#: ../template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Xin lỗi, nhưng không có gì phù hợp với cụm từ tìm kiếm của bạn. Vui lòng thử "
+"lại với một số từ khóa khác nhau."
+
+#: ../template-parts/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Có vẻ như chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm. Có lẽ tìm "
+"kiếm có thể giúp đỡ."
+
+#: ../template-parts/content-page.php:23
+#: ../template-parts/content-single.php:43
+msgid "Pages:"
+msgstr "Trang:"
+
+#: ../template-parts/content-search.php:39 ../template-parts/content.php:39
+msgid "countinue reading"
+msgstr "đọc tiếp"
+
+#: ../template-parts/content-search.php:45 ../template-parts/content.php:45
+msgid "Post By :"
+msgstr "Đăng Bởi :"
+
+#: ../woocommerce/cart/mini-cart.php:47
+msgid "Remove this item"
+msgstr "Xóa mục này"
+
+#: ../woocommerce/cart/mini-cart.php:92
+msgid "No products in the cart."
+msgstr "Không có sản phẩm nào trong giỏ."
+
+#: ../woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr "%s số lượng"
+
+#: ../woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr "Số lượng"
+
+#: ../woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Số lượng"
+
+#~ msgid "Front Page"
+#~ msgstr "Trang Đầu"
+
+#~ msgid "Important Links"
+#~ msgstr "Liên kết Quan trọng"
+
+#~ msgid "Storevilla Pro Features"
+#~ msgstr "Các tính năng của Storevilla Pro"
+
+#~ msgid "Next generation WooCommerce theme"
+#~ msgstr "Thế hệ Chủ đề WooCommerce Mới"
+
+#~ msgid "WordPress Live Customizer"
+#~ msgstr "Tùy biến WordPress Live"
+
+#~ msgid "Unlimited theme colors ( Primary and secondary)"
+#~ msgstr "Không giới hạn màu chủ đề (Chính và phụ)"
+
+#~ msgid "Advanced typography settings"
+#~ msgstr "Cài đặt kiểu chữ nâng cao"
+
+#~ msgid "Unlimited sliders Inbuilt sliders or Slider Revolution"
+#~ msgstr "Không giới hạn thanh trượt Inbuilt sliders hoặc Slider Revolution"
+
+#~ msgid "Configure product page/ shop unlimited"
+#~ msgstr "Tùy chỉnh trang sản phẩm / cửa hàng không giới hạn"
+
+#~ msgid "Advanced product search"
+#~ msgstr "Tìm kiếm sản phẩm nâng cao"
+
+#~ msgid "Smart header"
+#~ msgstr "Đầu trang thông minh"
+
+#~ msgid "Background configuration"
+#~ msgstr "Tùy chỉnh nền"
+
+#~ msgid "Highly configurable home page"
+#~ msgstr "Trang chủ có thể tùy biến cao"
+
+#~ msgid "Vertical Ajax category with promo image"
+#~ msgstr "Danh mục Ajax dọc với hình ảnh quảng cáo"
+
+#~ msgid "Product list to display popular products"
+#~ msgstr "Danh sách sản phẩm để hiển thị các sản phẩm phổ biến"
+
+#~ msgid "Product lists in column"
+#~ msgstr "Danh sách sản phẩm dạng cột"
+
+#~ msgid "Full width Promo Widget"
+#~ msgstr "Tiện ích quảng cáo toàn màn hình"
+
+#~ msgid "Custom CSS Section"
+#~ msgstr "Vùng tùy chỉnh CSS"
+
+#~ msgid "Three different blog layouts"
+#~ msgstr "Ba bố cục blog khác nhau"
+
+#~ msgid "Our team member section"
+#~ msgstr "Vùng thành viên nhóm của chúng tôi"
+
+#~ msgid "Testimonial section"
+#~ msgstr "Vùng chứng thực"
+
+#~ msgid "Multiple preloader options"
+#~ msgstr "Nhiều tùy chọn tải trước"
+
+#~ msgid ""
+#~ "4 Page layouts (No sidebar, right sidebar, left sidebar, both sidebar)"
+#~ msgstr ""
+#~ "Bố cục 4 trang (Không có thanh bên, thanh bên phải, thanh bên trái, cả "
+#~ "hai thanh bên)"
+
+#~ msgid "Fully SEO optimized (schema)"
+#~ msgstr "Tối ưu hóa SEO hoàn toàn (lược đồ)"
+
+#~ msgid "Fast loading"
+#~ msgstr "Tải nhanh"
+
+#~ msgid "A perfect theme to start your eCommerce store of any kind!"
+#~ msgstr ""
+#~ "Một chủ đề hoàn hảo để bắt đầu cửa hàng thương mại điện tử của bạn dưới "
+#~ "mọi hình thức!"
+
+#~ msgid "Install Required Plugins"
+#~ msgstr "Cài đặt Phần mở rộng Cần thiết"
+
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "Có lỗi với API phần mở rộng."
+
+#, php-format
+#~ msgid "This theme requires the following plugin: %1$s."
+#~ msgid_plural "This theme requires the following plugins: %1$s."
+#~ msgstr[0] "Chủ đề này yêu cầu các phần mở rộng sau: %1$s."
+
+#, php-format
+#~ msgid "This theme recommends the following plugin: %1$s."
+#~ msgid_plural "This theme recommends the following plugins: %1$s."
+#~ msgstr[0] "Chủ đề này khuyến nghị sử dụng các phần mở rộng sau: %1$s."
+
+#, php-format
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugins."
+#~ msgstr[0] "Xin lỗi, nhưng bạn không có quyền để cài đặt phần mở rộng %1$s."
+
+#, php-format
+#~ msgid ""
+#~ "The following plugin needs to be updated to its latest version to ensure "
+#~ "maximum compatibility with this theme: %1$s."
+#~ msgid_plural ""
+#~ "The following plugins need to be updated to their latest version to "
+#~ "ensure maximum compatibility with this theme: %1$s."
+#~ msgstr[0] ""
+#~ "Các phần mở rộng sau đây cần phải được cập nhật lên phiên bản mới nhất "
+#~ "của nó để đảm bảo khả năng tương thích tối đa với chủ đề này: %1$s."
+
+#, php-format
+#~ msgid "There is an update available for: %1$s."
+#~ msgid_plural "There are updates available for the following plugins: %1$s."
+#~ msgstr[0] "Có một bản cập nhật có sẵn cho: %1$s."
+
+#, php-format
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugins."
+#~ msgstr[0] "Xin lỗi, nhưng bạn không có quyền để cập nhật phần mở rộng %1$s."
+
+#, php-format
+#~ msgid "The following required plugin is currently inactive: %1$s."
+#~ msgid_plural "The following required plugins are currently inactive: %1$s."
+#~ msgstr[0] "Các phần mở rộng cần thiết sau đây hiện không hoạt động: %1$s."
+
+#, php-format
+#~ msgid "The following recommended plugin is currently inactive: %1$s."
+#~ msgid_plural ""
+#~ "The following recommended plugins are currently inactive: %1$s."
+#~ msgstr[0] ""
+#~ "Các phần mở rộng được đề xuất sau đây hiện không hoạt động: %1$s."
+
+#, php-format
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
+#~ "plugins."
+#~ msgstr[0] ""
+#~ "Xin lỗi, nhưng bạn không có quyền để kích hoạt phần mở rộng %1$s."
+
+#~ msgid "Begin installing plugin"
+#~ msgid_plural "Begin installing plugins"
+#~ msgstr[0] "Bắt đầu cài đặt phần mở rộng"
+
+#~ msgid "Begin updating plugin"
+#~ msgid_plural "Begin updating plugins"
+#~ msgstr[0] "Bắt đầu cập nhật phần mở rộng"
+
+#~ msgid "Begin activating plugin"
+#~ msgid_plural "Begin activating plugins"
+#~ msgstr[0] "Bắt đầu kích hoạt phần mở rộng"
+
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "Quay lại Trình cài đặt Phần mở rộng Bắt buộc"
+
+#~ msgid "Plugin activated successfully."
+#~ msgstr "Phần mở rộng đã được kích hoạt thành công."
+
+#~ msgid "The following plugin was activated successfully:"
+#~ msgid_plural "The following plugins were activated successfully:"
+#~ msgstr[0] "Các phần mở rộng sau đã được kích hoạt thành công:"
+
+#, php-format
+#~ msgid "No action taken. Plugin %1$s was already active."
+#~ msgstr "Không có hành động. Phần mở rộng %1$s đã hoạt động."
+
+#, php-format
+#~ msgid ""
+#~ "Plugin not activated. A higher version of %s is needed for this theme. "
+#~ "Please update the plugin."
+#~ msgstr ""
+#~ "Phần mở rộng chưa được kích hoạt. Cần có phiên bản %s cao hơn cho chủ đề "
+#~ "này. Vui lòng cập nhật plugin."
+
+#, php-format
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr "Tất cả các phần mở rộng được cài đặt và kích hoạt thành công. %1$s"
+
+#~ msgid "Please contact the administrator of this site for help."
+#~ msgstr ""
+#~ "Vui lòng liên hệ với quản trị viên của trang web này để được trợ giúp."
+
+#, php-format
+#~ msgid "%1$s By %2$s"
+#~ msgstr "%1$s Bởi %2$s"
