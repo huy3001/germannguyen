@@ -1,0 +1,11 @@
+/* Sidebar custom styles */
+
+.product-categories {
+    .cat-item {
+        a {
+            &:hover {
+                color: $c-pacific-blue;
+            }
+        }
+    }
+}

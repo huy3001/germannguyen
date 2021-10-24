@@ -202,7 +202,7 @@ function storevilla_scripts() {
 
 	/*----------------- Google Fonts --------------------------------------*/
 	$storevilla_font_args = array(
-        'family' => 'Open+Sans:400,300,400,600,600,700|Lato:400,300,300,400,700',
+        'family' => 'Open+Sans:300,400,600,700|Roboto:300,400,700&amp;subset=vietnamese',
     );
     wp_enqueue_style('google-fonts', add_query_arg( $storevilla_font_args, "//fonts.googleapis.com/css" ) );
 
@@ -217,7 +217,10 @@ function storevilla_scripts() {
 	wp_enqueue_style( 'storevilla-style', get_stylesheet_uri() );
 
 	wp_enqueue_style( 'storevilla-responsive', get_template_directory_uri() . '/assets/css/responsive.css');
+
 	wp_enqueue_style( 'storevilla-keyboard', get_template_directory_uri() . '/assets/css/keyboard.css' );
+
+	wp_enqueue_style( 'storevilla-custom', get_template_directory_uri() . '/assets/css/custom.css');
 
 	/*------------------- JavaScript ---------------------------------------*/
 	$storevilla_theme = wp_get_theme();
@@ -229,7 +232,7 @@ function storevilla_scripts() {
 
 	wp_enqueue_script( 'storevilla-skip-link-focus-fix', get_template_directory_uri() . '/assets/js/skip-link-focus-fix.js', array(), esc_attr( $theme_version ), true );
 	
-	wp_enqueue_script( 'retina', get_template_directory_uri() . '/assets/js/retina.js', array('jquery'), esc_attr( $theme_version ), true );
+	// wp_enqueue_script( 'retina', get_template_directory_uri() . '/assets/js/retina.js', array('jquery'), esc_attr( $theme_version ), true );
 
 	wp_enqueue_script( 'storevilla-common', get_template_directory_uri() . '/assets/js/common.js', array('jquery'), esc_attr( $theme_version ), true );
 	
@@ -245,7 +248,7 @@ add_action( 'wp_enqueue_scripts', 'storevilla_scripts' );
  */
 function storevilla_editor_styles() {
 	$storevilla_font_args = array(
-        'family' => 'Open+Sans:400,300,400,600,600,700|Lato:400,300,300,400,700',
+        'family' => 'Open+Sans:300,400,600,700|Roboto:300,400,700&amp;subset=vietnamese',
     );
     wp_enqueue_style( 'storevilla-lite-google-fonts', add_query_arg( $storevilla_font_args, "//fonts.googleapis.com/css" ) );
 

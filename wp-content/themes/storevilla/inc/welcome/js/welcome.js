@@ -31,7 +31,7 @@
  		}
  	});
 
- 	jQuery('.nav-tab').on("click", function(){
+ 	jQuery('.nav-tab').click(function(){
  		jQuery('.nav-tab').removeClass('nav-tab-active');
  		jQuery('.welcome-section').removeClass('nav-tab-active').addClass('nav-tab-inactive');
  		var tab = jQuery(this);		

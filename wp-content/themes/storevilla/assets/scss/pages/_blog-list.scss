@@ -1,0 +1,21 @@
+/* Blog list page custom styles */
+
+
+
+// Article //
+.storevilla-blog {
+    @include clearfix;
+
+    .sv-post-content, 
+    .entry-content {
+        color: #333333;
+        margin-top: 20px;
+    }
+
+    .sv-post-content {
+        .category-name span a, 
+        .post-meta .date {
+            color: #333333;
+        }
+    }
+}

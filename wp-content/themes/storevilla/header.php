@@ -14,6 +14,10 @@
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Meta tags for sharing -->
+<meta property="fb:app_id" content="2381269902019530"/>
+<meta property="fb:pages" content="111060810637742"/>
+<!-- End meta tags for sharing -->
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 

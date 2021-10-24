@@ -1192,7 +1192,7 @@ class storevilla_aboutus_info_area extends WP_Widget {
     **/
     public function __construct() {
         parent::__construct(
-            'storevilla_aboutus_info_area', 'SV: About Us Information', array(
+            'storevilla_aboutus_info_area', __('SV: About Us Information', 'storevilla'), array(
             'description' => __('A widget that shows About Us information', 'storevilla')
         ));
     }

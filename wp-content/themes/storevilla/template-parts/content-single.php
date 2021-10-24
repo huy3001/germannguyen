@@ -31,10 +31,7 @@
 	<h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
 
 	<ul class="blog-meta">
-		<?php $show_author = get_theme_mod('storevilla_post_author_options','enable'); 
-		if($show_author == 'enable'){?>
 		<li class="sv-author"><a href="<?php echo esc_url( get_author_posts_url( get_the_author_meta( 'ID' ) ) ); ?>"><?php the_author(); ?></a></li>
-		<?php } ?>
 		<li class="sv-time"><?php the_date(); ?></li>
 		<li class="sv-category"><?php the_category( ', ' ); ?></li>
 		<li class="sv-tags"><?php the_tags(''); ?></li>

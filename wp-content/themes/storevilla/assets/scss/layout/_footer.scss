@@ -1,0 +1,42 @@
+/* Footer custom styles */
+
+.site-footer {
+    .widget_storevilla_aboutus_info_area {
+        .about-logo {
+            margin-bottom: 20px;
+            max-width: $logo-size;
+        }
+
+        .about-desc {
+            margin-bottom: 20px;
+        }
+    }
+
+    .footer-widgets {
+        .menu-item {
+            text-transform: uppercase;
+        }
+    }
+
+    .widget_media_gallery {
+        .gallery {
+            margin: 0;
+        }
+
+        .gallery-item {
+            padding: 1px;
+        }
+    }
+
+    /* Desktop */
+    @include bp(min-width, $bp-tablet + 1) {
+        .footer-widgets {
+            .footer-widget-2,
+            .footer-widget-3,
+            .footer-widget-4,
+            .footer-widget-5 {
+                padding-top: 0;
+            }
+        }
+    }
+}

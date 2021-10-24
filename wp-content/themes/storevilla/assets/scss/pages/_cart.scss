@@ -1,0 +1,33 @@
+/* Cart page custom styles */
+
+// Quantity //
+.cart_item {
+    .quantity {
+        .input-text {
+            border: 1px solid $c-pacific-blue;
+        }
+    }
+}
+
+// Coupon //
+.woocommerce-page {
+    table.cart {
+        td.actions {
+            .coupon {
+                .input-text {
+                    height: 36px;
+                }
+            }
+        }
+    }
+}
+
+// Cart total //
+.cart-collaterals {
+    .cart_totals {
+        h2 {
+            margin: 0 0 1em;
+            text-transform: uppercase;
+        }
+    }
+}

@@ -1,0 +1,23 @@
+/* Typography custom styles */
+
+// General //
+body {
+    color: $c-black;
+}
+
+// Content //
+.page,
+.storevilla-blog {
+    .entry-content {
+        color: $c-black;
+
+        a {
+            color: $c-pacific-blue;
+        }
+
+        img {
+            display: inline-block;
+            vertical-align: middle;
+        }
+    }
+}
