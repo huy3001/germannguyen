@@ -8,7 +8,7 @@ var gulp = require('gulp'),
     autoprefixer = require('gulp-autoprefixer'),
     concatCss = require('gulp-concat-css'),
     sourcemap = require('gulp-sourcemaps'),
-    imagemin = require('gulp-imagemin'),
+    // imagemin = require('gulp-imagemin'),
     browserSync = require('browser-sync'),
 
     sassSource = 'scss/custom.scss',
@@ -43,30 +43,30 @@ gulp.task('sass', function() {
 });
 
 // Create task for optimize images
-gulp.task('images', function() {
-    return gulp.src(imageFiles)
-        .pipe(imagemin({
-            interlaced: true,
-            progressive: true,
-            optimizationLevel: 5,
-            verbose: true
-        }))
-        .pipe(gulp.dest(imageDest))
-});
+// gulp.task('images', function() {
+//     return gulp.src(imageFiles)
+//         .pipe(imagemin({
+//             interlaced: true,
+//             progressive: true,
+//             optimizationLevel: 5,
+//             verbose: true
+//         }))
+//         .pipe(gulp.dest(imageDest))
+// });
 
 // Create task for optimize svg
-gulp.task('svg', function() {
-    return gulp.src(svgFiles)
-        .pipe(imagemin({
-            svgoPlugins: [
-                {
-                    removeViewBox: true
-                }
-            ],
-            verbose: true
-        }))
-        .pipe(gulp.dest(svgDest))
-});
+// gulp.task('svg', function() {
+//     return gulp.src(svgFiles)
+//         .pipe(imagemin({
+//             svgoPlugins: [
+//                 {
+//                     removeViewBox: true
+//                 }
+//             ],
+//             verbose: true
+//         }))
+//         .pipe(gulp.dest(svgDest))
+// });
 
 // Create task for watch changes
 gulp.task('watch', ['sass'], function() {
@@ -77,7 +77,7 @@ gulp.task('watch', ['sass'], function() {
 });
 
 // Create task for optimize images
-gulp.task('optimize', ['images', 'svg']);
+// gulp.task('optimize', ['images', 'svg']);
 
 // Default task for gulp
 gulp.task('default', ['sass', 'watch']);
