@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: StoreVilla\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-02 15:37+0700\n"
-"PO-Revision-Date: 2020-12-02 15:39+0700\n"
+"PO-Revision-Date: 2021-11-19 15:44+0000\n"
 "Last-Translator: \n"
-"Language-Team: \n"
-"Language: vi_VN\n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,8 +19,9 @@ msgstr ""
 "_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
 "esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
 "esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Loco https://localise.biz/\n"
 "X-Poedit-SearchPath-0: ..\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1"
 
 #: ../404.php:17
 msgid "Oops! That page can&rsquo;t be found."
@@ -268,8 +269,8 @@ msgstr ""
 
 #: ../assets/node_modules/es5-ext/test/object/unserialize.js:16
 msgid ""
-"[undefined,false,null,\"raz\\\"ddwa\\ntrzy\",/raz/g,new Date(1234567),[\"foo"
-"\"]]"
+"[undefined,false,null,\"raz\\\"ddwa\\ntrzy\",/raz/g,new Date(1234567),"
+"[\"foo\"]]"
 msgstr ""
 
 #: ../assets/node_modules/es5-ext/test/object/unserialize.js:20
@@ -278,9 +279,9 @@ msgstr ""
 
 #: ../assets/node_modules/es5-ext/test/object/unserialize.js:23
 msgid ""
-"{\"raz\":undefined,\"dwa\":false,\"trzy\":null,\"cztery\":\"raz\\\"ddwa"
-"\\ntrzy\",\"szesc\":/raz/g,\"siedem\":new Date(1234567),\"osiem\":[\"foo"
-"\",32],\"dziewiec\":{\"foo\":\"bar\",\"dwa\":343}}"
+"{\"raz\":undefined,\"dwa\":false,\"trzy\":null,\"cztery\":"
+"\"raz\\\"ddwa\\ntrzy\",\"szesc\":/raz/g,\"siedem\":new Date(1234567),"
+"\"osiem\":[\"foo\",32],\"dziewiec\":{\"foo\":\"bar\",\"dwa\":343}}"
 msgstr ""
 
 #: ../assets/node_modules/es5-ext/test/safe-to-string.js:7
@@ -744,6 +745,7 @@ msgctxt "comments title"
 msgid "%1$s thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
 msgstr[0] "%1$s suy nghĩ về &ldquo;%2$s&rdquo;"
+msgstr[1] ""
 
 #: ../comments.php:51 ../comments.php:72
 msgid "Comment navigation"
@@ -1601,7 +1603,7 @@ msgstr ""
 
 #: ../inc/welcome/sections/free_vs_pro.php:150
 msgid "Blog Layouts"
-msgstr "Bố cục HộpBố cục Blog"
+msgstr "Bố cục Blog"
 
 #: ../inc/welcome/sections/free_vs_pro.php:151
 msgid ""
@@ -1858,9 +1860,9 @@ msgid ""
 "settings are enabled in the theme - you can easily add any products in the "
 "store and feature it anywhere in any way. It is fully responsive, "
 "translation ready and SEO friendly theme. With StoreVilla - you can "
-"effortlessly create an online store of your dream, Demo: http://"
-"accesspressthemes.com/theme-demos/?theme=storevilla Support forum: https://"
-"accesspressthemes.com/support/forum/themes/free-themes/storevilla/"
+"effortlessly create an online store of your dream, Demo: http:"
+"//accesspressthemes.com/theme-demos/?theme=storevilla Support forum: https:"
+"//accesspressthemes.com/support/forum/themes/free-themes/storevilla/"
 msgstr ""
 "StoreVilla là một chủ đề WordPress thương mại điện tử miễn phí được thiết kế "
 "trang nhã. Nó được cung cấp bởi plugin WooCommerce tuyệt vời và phần mở rộng "
@@ -1880,9 +1882,9 @@ msgstr ""
 "đề - bạn có thể dễ dàng thêm bất kỳ sản phẩm nào trong cửa hàng và giới "
 "thiệu sản phẩm đó ở bất kỳ đâu theo bất kỳ cách nào. Nó hoàn toàn đáp ứng, "
 "sẵn sàng dịch và chủ đề thân thiện với SEO. Với StoreVilla - bạn có thể dễ "
-"dàng tạo một cửa hàng trực tuyến trong mơ của mình, Demo: http://"
-"accesspressthemes.com/theme-demos/?theme=storevilla Diễn đàn hỗ trợ: https://"
-"accesspressthemes.com/support/forum/themes/free-themes/storevilla/"
+"dàng tạo một cửa hàng trực tuyến trong mơ của mình, Demo: http:"
+"//accesspressthemes.com/theme-demos/?theme=storevilla Diễn đàn hỗ trợ: https:"
+"//accesspressthemes.com/support/forum/themes/free-themes/storevilla/"
 
 #: ../inc/welcome/welcome-config.php:91
 msgid "Install and Activate"
@@ -2121,204 +2123,3 @@ msgstr "Số lượng"
 msgctxt "Product quantity input tooltip"
 msgid "Qty"
 msgstr "Số lượng"
-
-#~ msgid "Front Page"
-#~ msgstr "Trang Đầu"
-
-#~ msgid "Important Links"
-#~ msgstr "Liên kết Quan trọng"
-
-#~ msgid "Storevilla Pro Features"
-#~ msgstr "Các tính năng của Storevilla Pro"
-
-#~ msgid "Next generation WooCommerce theme"
-#~ msgstr "Thế hệ Chủ đề WooCommerce Mới"
-
-#~ msgid "WordPress Live Customizer"
-#~ msgstr "Tùy biến WordPress Live"
-
-#~ msgid "Unlimited theme colors ( Primary and secondary)"
-#~ msgstr "Không giới hạn màu chủ đề (Chính và phụ)"
-
-#~ msgid "Advanced typography settings"
-#~ msgstr "Cài đặt kiểu chữ nâng cao"
-
-#~ msgid "Unlimited sliders Inbuilt sliders or Slider Revolution"
-#~ msgstr "Không giới hạn thanh trượt Inbuilt sliders hoặc Slider Revolution"
-
-#~ msgid "Configure product page/ shop unlimited"
-#~ msgstr "Tùy chỉnh trang sản phẩm / cửa hàng không giới hạn"
-
-#~ msgid "Advanced product search"
-#~ msgstr "Tìm kiếm sản phẩm nâng cao"
-
-#~ msgid "Smart header"
-#~ msgstr "Đầu trang thông minh"
-
-#~ msgid "Background configuration"
-#~ msgstr "Tùy chỉnh nền"
-
-#~ msgid "Highly configurable home page"
-#~ msgstr "Trang chủ có thể tùy biến cao"
-
-#~ msgid "Vertical Ajax category with promo image"
-#~ msgstr "Danh mục Ajax dọc với hình ảnh quảng cáo"
-
-#~ msgid "Product list to display popular products"
-#~ msgstr "Danh sách sản phẩm để hiển thị các sản phẩm phổ biến"
-
-#~ msgid "Product lists in column"
-#~ msgstr "Danh sách sản phẩm dạng cột"
-
-#~ msgid "Full width Promo Widget"
-#~ msgstr "Tiện ích quảng cáo toàn màn hình"
-
-#~ msgid "Custom CSS Section"
-#~ msgstr "Vùng tùy chỉnh CSS"
-
-#~ msgid "Three different blog layouts"
-#~ msgstr "Ba bố cục blog khác nhau"
-
-#~ msgid "Our team member section"
-#~ msgstr "Vùng thành viên nhóm của chúng tôi"
-
-#~ msgid "Testimonial section"
-#~ msgstr "Vùng chứng thực"
-
-#~ msgid "Multiple preloader options"
-#~ msgstr "Nhiều tùy chọn tải trước"
-
-#~ msgid ""
-#~ "4 Page layouts (No sidebar, right sidebar, left sidebar, both sidebar)"
-#~ msgstr ""
-#~ "Bố cục 4 trang (Không có thanh bên, thanh bên phải, thanh bên trái, cả "
-#~ "hai thanh bên)"
-
-#~ msgid "Fully SEO optimized (schema)"
-#~ msgstr "Tối ưu hóa SEO hoàn toàn (lược đồ)"
-
-#~ msgid "Fast loading"
-#~ msgstr "Tải nhanh"
-
-#~ msgid "A perfect theme to start your eCommerce store of any kind!"
-#~ msgstr ""
-#~ "Một chủ đề hoàn hảo để bắt đầu cửa hàng thương mại điện tử của bạn dưới "
-#~ "mọi hình thức!"
-
-#~ msgid "Install Required Plugins"
-#~ msgstr "Cài đặt Phần mở rộng Cần thiết"
-
-#~ msgid "Something went wrong with the plugin API."
-#~ msgstr "Có lỗi với API phần mở rộng."
-
-#, php-format
-#~ msgid "This theme requires the following plugin: %1$s."
-#~ msgid_plural "This theme requires the following plugins: %1$s."
-#~ msgstr[0] "Chủ đề này yêu cầu các phần mở rộng sau: %1$s."
-
-#, php-format
-#~ msgid "This theme recommends the following plugin: %1$s."
-#~ msgid_plural "This theme recommends the following plugins: %1$s."
-#~ msgstr[0] "Chủ đề này khuyến nghị sử dụng các phần mở rộng sau: %1$s."
-
-#, php-format
-#~ msgid ""
-#~ "Sorry, but you do not have the correct permissions to install the %1$s "
-#~ "plugin."
-#~ msgid_plural ""
-#~ "Sorry, but you do not have the correct permissions to install the %1$s "
-#~ "plugins."
-#~ msgstr[0] "Xin lỗi, nhưng bạn không có quyền để cài đặt phần mở rộng %1$s."
-
-#, php-format
-#~ msgid ""
-#~ "The following plugin needs to be updated to its latest version to ensure "
-#~ "maximum compatibility with this theme: %1$s."
-#~ msgid_plural ""
-#~ "The following plugins need to be updated to their latest version to "
-#~ "ensure maximum compatibility with this theme: %1$s."
-#~ msgstr[0] ""
-#~ "Các phần mở rộng sau đây cần phải được cập nhật lên phiên bản mới nhất "
-#~ "của nó để đảm bảo khả năng tương thích tối đa với chủ đề này: %1$s."
-
-#, php-format
-#~ msgid "There is an update available for: %1$s."
-#~ msgid_plural "There are updates available for the following plugins: %1$s."
-#~ msgstr[0] "Có một bản cập nhật có sẵn cho: %1$s."
-
-#, php-format
-#~ msgid ""
-#~ "Sorry, but you do not have the correct permissions to update the %1$s "
-#~ "plugin."
-#~ msgid_plural ""
-#~ "Sorry, but you do not have the correct permissions to update the %1$s "
-#~ "plugins."
-#~ msgstr[0] "Xin lỗi, nhưng bạn không có quyền để cập nhật phần mở rộng %1$s."
-
-#, php-format
-#~ msgid "The following required plugin is currently inactive: %1$s."
-#~ msgid_plural "The following required plugins are currently inactive: %1$s."
-#~ msgstr[0] "Các phần mở rộng cần thiết sau đây hiện không hoạt động: %1$s."
-
-#, php-format
-#~ msgid "The following recommended plugin is currently inactive: %1$s."
-#~ msgid_plural ""
-#~ "The following recommended plugins are currently inactive: %1$s."
-#~ msgstr[0] ""
-#~ "Các phần mở rộng được đề xuất sau đây hiện không hoạt động: %1$s."
-
-#, php-format
-#~ msgid ""
-#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
-#~ "plugin."
-#~ msgid_plural ""
-#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
-#~ "plugins."
-#~ msgstr[0] ""
-#~ "Xin lỗi, nhưng bạn không có quyền để kích hoạt phần mở rộng %1$s."
-
-#~ msgid "Begin installing plugin"
-#~ msgid_plural "Begin installing plugins"
-#~ msgstr[0] "Bắt đầu cài đặt phần mở rộng"
-
-#~ msgid "Begin updating plugin"
-#~ msgid_plural "Begin updating plugins"
-#~ msgstr[0] "Bắt đầu cập nhật phần mở rộng"
-
-#~ msgid "Begin activating plugin"
-#~ msgid_plural "Begin activating plugins"
-#~ msgstr[0] "Bắt đầu kích hoạt phần mở rộng"
-
-#~ msgid "Return to Required Plugins Installer"
-#~ msgstr "Quay lại Trình cài đặt Phần mở rộng Bắt buộc"
-
-#~ msgid "Plugin activated successfully."
-#~ msgstr "Phần mở rộng đã được kích hoạt thành công."
-
-#~ msgid "The following plugin was activated successfully:"
-#~ msgid_plural "The following plugins were activated successfully:"
-#~ msgstr[0] "Các phần mở rộng sau đã được kích hoạt thành công:"
-
-#, php-format
-#~ msgid "No action taken. Plugin %1$s was already active."
-#~ msgstr "Không có hành động. Phần mở rộng %1$s đã hoạt động."
-
-#, php-format
-#~ msgid ""
-#~ "Plugin not activated. A higher version of %s is needed for this theme. "
-#~ "Please update the plugin."
-#~ msgstr ""
-#~ "Phần mở rộng chưa được kích hoạt. Cần có phiên bản %s cao hơn cho chủ đề "
-#~ "này. Vui lòng cập nhật plugin."
-
-#, php-format
-#~ msgid "All plugins installed and activated successfully. %1$s"
-#~ msgstr "Tất cả các phần mở rộng được cài đặt và kích hoạt thành công. %1$s"
-
-#~ msgid "Please contact the administrator of this site for help."
-#~ msgstr ""
-#~ "Vui lòng liên hệ với quản trị viên của trang web này để được trợ giúp."
-
-#, php-format
-#~ msgid "%1$s By %2$s"
-#~ msgstr "%1$s Bởi %2$s"
