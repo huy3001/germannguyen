@@ -1,0 +1,145 @@
+/* Christmas theme custom styles */
+
+// Christmas colors //
+$c-crusoe: #165B33;
+$c-jewel: #146B3A;
+$c-light-yellow: #F8B229;
+$c-cinnabar: #EA4630;
+$c-fire-brick: #BB2528;
+
+// General //
+body.custom-background {
+    &:not(.home) {
+        background: none;
+    }
+}
+
+#page {
+    position: relative;
+    overflow: hidden;
+}
+
+// Header //
+.header-wrap .site-branding {
+    position: relative;
+}
+
+.site-header .top-header,
+.header-wrap .search-cart-wrap .advance-search {
+    border-color: $c-jewel;
+    background: $c-white;
+}
+
+.header-wrap .search-cart-wrap .advance-search .sv_search_form:before {
+    border-color: $c-jewel;
+}
+
+.top-header ul.store-quickinfo li, .top-header ul.store-quickinfo li a,
+.top-header .top-header-regin ul li a,
+.header-wrap .search-cart-wrap .advance-search .sv_search_product,
+.header-wrap .search-cart-wrap .advance-search .sv_search_form input[type=text], 
+.normal-search .search-form .search-field {
+    color: $c-yellow;
+}
+
+.header-wrap .search-cart-wrap .advance-search .sv_search_form input[type=text] {
+    @include placeholder {
+        color: $c-yellow;
+    }
+}
+
+// Content //
+#content,
+#primary,
+#secondaryleft,
+#secondaryright {
+    position: relative;
+}
+
+.slider-wrapper {
+    background: $c-white;
+}
+
+.site-content .slider-wrapper .lSPager.lSpg li a, 
+.widget_storevilla_testimonial_widget_area .lSPager.lSpg li a {
+    background: $c-jewel;
+}
+
+.site-content .slider-wrapper .lSPager.lSpg li:hover a, 
+.site-content .slider-wrapper .lSPager.lSpg li.active a {
+    background: $c-fire-brick;
+}
+
+.StoreVillaAction .villa-lSPrev, 
+.StoreVillaAction .villa-lSNext {
+    border-color: $c-fire-brick;
+}
+
+.StoreVillaAction .villa-lSPrev:before,
+.StoreVillaAction .villa-lSNext:before {
+    color: $c-fire-brick;
+}
+
+.main-widget-wrap .block-title h2, 
+.block-title h2, h1.page-title, 
+.woocommerce div.product .product_title, 
+.page h3.entry-title {
+    color: $c-yellow;
+}
+
+.widget_storevilla_latest_product_cat_widget_area .lSSlideOuter, 
+.widget_storevilla_product_widget_area .lSSlideOuter,
+.widget_storevilla_blog_widget_area .blog-inner {
+    background: $c-white;
+}
+
+.product-button-wrap a.villa-details {
+    background: $c-yellow;
+    border-color: $c-yellow;
+}
+
+.widget_storevilla_latest_product_cat_widget_area .latest-product-slider li .block-item-title span a, 
+.widget_storevilla_product_widget_area .store-product li .block-item-title span a, 
+.widget_storevilla_cat_with_product_widget_area .cat-with-product li .block-item-title span a,
+.product-button-wrap a, 
+.woocommerce #respond input#submit, 
+.woocommerce a.button, 
+.woocommerce button.button, 
+.woocommerce input.button {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+
+.product-button-wrap a.villa-details {
+    &::before {
+        @include bp(max-width, $bp-tablet + 16) {
+            left: 15px;
+        }
+    }
+}
+
+// Footer //
+.site-footer .footer-widgets {
+    // background: $c-cinnabar;
+    position: relative;
+}
+
+.site-footer .bottom-footer-wrap {
+    // background: $c-fire-brick;
+}
+
+.widget_storevilla_aboutus_info_area ul li a:hover {
+    background: $c-yellow;
+}
+
+.site-footer .widget_storevilla_aboutus_info_area .about-desc,
+.site-footer .footer-widgets ul li a,
+.site-footer .site-info,
+.widget_nav_menu ul li a:before, 
+.widget_pages ul li a:before, 
+.widget_recent_entries ul li a:before, 
+.widget_meta ul li a:before, 
+.widget_archive ul li a:before, 
+.widget_categories ul li a:before {
+    color: $c-yellow;
+}
