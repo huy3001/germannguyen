@@ -1,0 +1,88 @@
+/*
+Copyright (C) 2012 Web3canvas. All Rights Reserved.
+*/
+
+/* Defines the position and dimensions of the snow div */
+#snow 
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+/* This CSS rule is applied to all div elements in the snow div.
+   It styles and animates each snowDiv.
+*/
+#snow > div 
+{
+    position: absolute;
+    width: auto;
+    height: auto;
+    
+    /* We use the following properties to apply the fade and drop animations to each snow.
+       Each of these properties takes two values. These values respectively match a setting
+       for fade and drop.
+    */
+    -webkit-animation-iteration-count: infinite, infinite;
+    -webkit-animation-direction: normal, normal;
+    -webkit-animation-timing-function: linear, ease-in;
+}
+
+/* This CSS rule is applied to all img elements directly inside div elements which are
+   directly inside the snow div. In other words, it matches the 'img' elements
+   inside the snowDivs which are created in the createAsnow() function.
+*/
+#snow > div > img {
+     /* position: absolute;
+     width: auto;
+     height: auto; */
+
+    /* We use the following properties to adjust the clockwiseSpin or counterclockwiseSpinAndFlip
+       animations on each snow.
+       The createAsnow function in the snow.js file determines whether a snow has the 
+       clockwiseSpin or counterclockwiseSpinAndFlip animation.
+    */
+     -webkit-animation-iteration-count: infinite;
+     -webkit-animation-direction: alternate;
+     -webkit-animation-timing-function: ease-in-out;
+     -webkit-transform-origin: 50% -100%;
+}
+
+
+/* Hides a snow towards the very end of the animation */
+@-webkit-keyframes fade
+{
+    /* Show a snow while into or below 95 percent of the animation and hide it, otherwise */
+    0%   { opacity: 1; }
+    95%  { opacity: 1; }
+    100% { opacity: 0; }
+}
+
+
+/* Makes a snow fall from -300 to 600 pixels in the y-axis */
+@-webkit-keyframes drop
+{
+    /* Move a snow to -300 pixels in the y-axis at the start of the animation */
+    0%   { -webkit-transform: translate(0px, -50px); }
+    /* Move a snow to 3000 pixels in the y-axis at the end of the animation */
+    100% { -webkit-transform: translate(0px, 3050px); }
+}
+
+/* Rotates a snow from -50 to 50 degrees in 2D space */
+@-webkit-keyframes clockwiseSpin
+{
+    /* Rotate a snow by -50 degrees in 2D space at the start of the animation */
+    0%   { -webkit-transform: rotate(-50deg); }
+    /*  Rotate a snow by 50 degrees in 2D space at the end of the animation */
+    100% { -webkit-transform: rotate(50deg); }
+}
+
+
+/* Flips a snow and rotates it from 50 to -50 degrees in 2D space */
+@-webkit-keyframes counterclockwiseSpinAndFlip 
+{
+    /* Flip a snow and rotate it by 50 degrees in 2D space at the start of the animation */
+    0%   { -webkit-transform: scale(-1, 1) rotate(50deg); }
+    /* Flip a snow and rotate it by -50 degrees in 2D space at the end of the animation */
+    100% { -webkit-transform: scale(-1, 1) rotate(-50deg); }
+}
