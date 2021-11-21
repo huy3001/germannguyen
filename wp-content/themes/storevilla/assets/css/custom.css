@@ -679,31 +679,31 @@ body.custom-background:not(.home) {
 .header-wrap .search-cart-wrap .advance-search .sv_search_product,
 .header-wrap .search-cart-wrap .advance-search .sv_search_form input[type=text],
 .normal-search .search-form .search-field {
-  color: #ffce00;
+  color: #000;
 }
 
 /* line 57, scss/abstracts/_mixins.scss */
 
 .header-wrap .search-cart-wrap .advance-search .sv_search_form input[type=text]::-webkit-input-placeholder {
-  color: #ffce00;
+  color: #000;
 }
 
 /* line 60, scss/abstracts/_mixins.scss */
 
 .header-wrap .search-cart-wrap .advance-search .sv_search_form input[type=text]:-moz-placeholder {
-  color: #ffce00;
+  color: #000;
 }
 
 /* line 63, scss/abstracts/_mixins.scss */
 
 .header-wrap .search-cart-wrap .advance-search .sv_search_form input[type=text]::-moz-placeholder {
-  color: #ffce00;
+  color: #000;
 }
 
 /* line 66, scss/abstracts/_mixins.scss */
 
 .header-wrap .search-cart-wrap .advance-search .sv_search_form input[type=text]:-ms-input-placeholder {
-  color: #ffce00;
+  color: #000;
 }
 
 /* line 52, scss/themes/_christmas.scss */

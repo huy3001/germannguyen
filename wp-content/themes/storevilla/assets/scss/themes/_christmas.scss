@@ -39,12 +39,12 @@ body.custom-background {
 .header-wrap .search-cart-wrap .advance-search .sv_search_product,
 .header-wrap .search-cart-wrap .advance-search .sv_search_form input[type=text], 
 .normal-search .search-form .search-field {
-    color: $c-yellow;
+    color: $c-black;
 }
 
 .header-wrap .search-cart-wrap .advance-search .sv_search_form input[type=text] {
     @include placeholder {
-        color: $c-yellow;
+        color: $c-black;
     }
 }
 
