@@ -1,1 +1,27 @@
 /* Home page custom styles */
+
+// Banner //
+.site-content .slider-wrapper ul.store-gallery li:before {
+    display: none;
+}
+
+// Product list //
+.widget_storevilla_latest_product_cat_widget_area .latest-product-slider li .block-item-title span a, 
+.widget_storevilla_product_widget_area .store-product li .block-item-title span a, 
+.widget_storevilla_cat_with_product_widget_area .cat-with-product li .block-item-title span a,
+.product-button-wrap a, 
+.woocommerce #respond input#submit, 
+.woocommerce a.button, 
+.woocommerce button.button, 
+.woocommerce input.button {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+
+.product-button-wrap a.villa-details {
+    &::before {
+        @include bp(max-width, $bp-tablet + 16) {
+            left: 15px;
+        }
+    }
+}
