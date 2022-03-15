@@ -222,7 +222,7 @@ function storevilla_scripts() {
 
 	wp_enqueue_style( 'storevilla-custom', get_template_directory_uri() . '/assets/css/custom.css');
 
-	wp_enqueue_style( 'storevilla-snow', get_template_directory_uri() . '/assets/css/snow.css');
+	// wp_enqueue_style( 'storevilla-snow', get_template_directory_uri() . '/assets/css/snow.css');
 
 	/*------------------- JavaScript ---------------------------------------*/
 	$storevilla_theme = wp_get_theme();
@@ -238,7 +238,7 @@ function storevilla_scripts() {
 
 	wp_enqueue_script( 'storevilla-common', get_template_directory_uri() . '/assets/js/common.js', array('jquery'), esc_attr( $theme_version ), true );
 
-	wp_enqueue_script( 'storevilla-snow', get_template_directory_uri() . '/assets/js/snow.js', array('jquery'), esc_attr( $theme_version ), true );
+	// wp_enqueue_script( 'storevilla-snow', get_template_directory_uri() . '/assets/js/snow.js', array('jquery'), esc_attr( $theme_version ), true );
 	
 	
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
